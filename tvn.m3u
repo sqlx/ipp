@@ -568,8 +568,6 @@ http://ott-cdn.ucom.am/s46/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ24Psuj0ngQvXDHM9eiN9-QbxA0wnRWn-bccixoM3rZOCKrV__" group-title="KIDS CHANNEL",Greek kids
 http://wpso.com:1936/hls/kidshd.m3u8
 
-#EXTINF:-1 group-title="NIMO TV",NIMO 1
-https://tx.flv.nimo.tv/live/su1599512427617rae4f86972500969d24b8d4bc88ee9b7a.flv
 #EXTINF:-1 group-title="NIMO TV",Tân Ỷ Thiên Đồ Long Ký 2008
 https://tx.flv.nimo.tv/live/su1599512427551r650a1b5abfd7679be6e85c9e976c4e92.flv
 #EXTINF:-1 group-title="NIMO TV",GAME OF THRONES
@@ -1855,7 +1853,396 @@ https://www.googleapis.com/drive/v3/files/1uzLePuk0QLCc_Y-KPQK-MAMWPoid3mKc?alt=
 https://www.googleapis.com/drive/v3/files/1usboF5N0WNFFGGOgCCv77wMap50BCjIw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
-
+#EXTINF:-1 group-title="OPTION TV",Sony MAX
+https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
+#EXTINF:-1 group-title="OPTION TV",Sony MAX HD 2
+http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
+#EXTINF:-1 group-title="OPTION TV",Sony MIX
+http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
+#EXTINF:-1 group-title="OPTION TV",Sony PIX
+https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
+#EXTINF:-1 group-title="OPTION TV",Sony SUB HD
+http://216.144.250.174:80/S0ny_Sab_HD/index.m3u8
+#EXTINF:-1 group-title="OPTION TV",Sony
+http://103.118.76.229:1935/tvprogram/SONY-HD/playlist.m3u8
+#EXTINF:-1 group-title="OPTION TV",Zee Cinema
+http://103.118.76.229:1935/tvprogram/ZEE-CINEMA/playlist.m3u8
+#EXTINF:-1 group-title="OPTION TV",Zee TV HD
+https://streamer-1.toffeelive.com/live/zee_tv_hd_720/index.m3u8
+#EXTINF:-1 group-title="OPTION TV",Star Plus
+http://103.118.76.229:1935/tvprogram/STAR-PLUS/playlist.m3u8
+#EXTINF:-1 group-title="OPTION TV",Star Plus HD
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+#EXTINF:-1 group-title="OPTION TV",Star Gold
+http://fr-c.movply.stream/hls/Star_Gold.m3u8
+#EXTINF:-1 group-title="OPTION TV",Star Gold BkUp
+http://103.118.76.229:1935/tvprogram/STAR-GOLD/playlist.m3u8
+#EXTINF:-1 group-title="OPTION TV",KhushBoo Bangla
+http://streamer.multitvsolution.in//live//KHUSHBOO-f//p4.m3u8
+#EXTINF:-1 group-title="OPTION TV",Zee Bangla
+http://103.118.76.229:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
+#EXTINF:-1 group-title="OPTION TV",Star Jalsha
+http://103.118.76.229:1935/tvprogram/STAR-JALSHA/playlist.m3u8
+#EXTINF:-1 group-title="OPTION TV",Sony Aath
+http://103.118.76.229:1935/tvprogram/SONY-AATH/playlist.m3u8
+#EXTINF:-1 group-title="OPTION TV", Multiplex Cinema
+http://streamer.multitvsolution.in//live//MultiplexCinema-e//p4.m3u8
+#EXTINF:-1 group-title="OPTION TV",B4U Movies
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
+#EXTINF:-1 group-title="OPTION TV",B4U Music
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1 group-title="OPTION TV",B4U Plus
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1 group-title="OPTION TV",Bollywood TV Film
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="OPTION TV", Bollywood Classic
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 group-title="OPTION TV", Bollywood Premier
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 group-title="OPTION TV",Cine Voice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
+#EXTINF:-1 group-title="OPTION TV",Cinema TV
+https://acv.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
+#EXTINF:-1 group-title="OPTION TV",Enterr10
+http://streamer.multitvsolution.in//live//Enterr10-f//p4.m3u8
+#EXTINF:-1 group-title="OPTION TV", Housefull Movies
+http://streamer.multitvsolution.in/live/Housefullmovies-f/p4.m3u8
+#EXTINF:-1 group-title="OPTION TV",WoW Cinema
+http://streamer.multitvsolution.in//live/WowCinema-d/p4.m3u8
+#EXTINF:-1 group-title="OPTION TV",Colors HD
+https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:-1 group-title="OPTION TV",Colors
+http://fr-c.movply.stream/hls/Colors.m3u8
+#EXTINF:-1 group-title="OPTION TV",MTV Beats
+http://27.147.156.14:1935/MTV-Beats/MTV-Beats.stream/chunklist.m3u8
+#EXTINF:-1 group-title="OPTION TV", Music India
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
+#EXTINF:-1 group-title="OPTION TV",MNX Plus
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:-1 group-title="OPTION TV",MN Plus
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:-1 group-title="OPTION TV",AXN
+http://210.210.155.35/session/e436e198-65ba-11e9-994b-b82a72d63267/uq2663/h/h141/01.m3u8
+#EXTINF:-1 group-title="OPTION TV",ALJazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:-1 group-title="OPTION TV",NAT Geo
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 group-title="OPTION TV",NAT Geo BkUp
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:-1 group-title="OPTION TV",NAT Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 group-title="OPTION TV",NAT Geo Wild BkUp
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 group-title="OPTION TV",NAT Geo People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 group-title="OPTION TV",NAT Geo People BkUp
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 group-title="OPTION TV",Animal Planet HD
+http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
+#EXTINF:-1 group-title="OPTION TV",Animal Planet HD BkUp
+http://95.170.215.118:80/hls/m3u8/Animal-Planet.m3u8
+#EXTINF:-1 group-title="OPTION TV", Animal Planet Hindi
+http://streamer.multitvsolution.in//live//APHDHindi-a//p4.m3u8
+#EXTINF:-1 group-title="OPTION TV", Animal Planet Eng
+http://streamer.multitvsolution.in//live//AnimalPlanetEng-a//p4.m3u8
+#EXTINF:-1 group-title="OPTION TV", Discovery HD
+http://91.126.141.12:1935/live/discovery/chunklist_w1533265882.m3u8
+#EXTINF:-1 group-title="OPTION TV", Discovery
+http://95.170.215.118:80/hls/m3u8/Discovery-Channe.m3u8
+#EXTINF:-1 group-title="OPTION TV", Discovery HD
+http://streamer.multitvsolution.in//live//DiscoveryHD-a//p4.m3u8
+#EXTINF:-1 group-title="OPTION TV", Discovery Hindi
+http://streamer.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
+#EXTINF:-1 group-title="OPTION TV", Discovery Kids
+http://streamer.multitvsolution.in//live//DiscoveryKidsEng-a//p4.m3u8
+#EXTINF:-1 group-title="OPTION TV", Discovery Kids Hindi
+http://streamer.multitvsolution.in//live//DiscoveryKidsHindi-a//p4.m3u8
+#EXTINF:-1 group-title="OPTION TV",Discovery Science Hindi
+http://streamer.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
+#EXTINF:-1 group-title="OPTION TV", Discovery Turbo
+http://streamer.multitvsolution.in//live//TurboEng-a//p4.m3u8
+#EXTINF:-1 group-title="OPTION TV",DMAX
+http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
+#EXTINF:-1 group-title="OPTION TV", Discovery ShowCase HD
+http://95.170.215.118:80/hls/m3u8/Discovery-Showca.m3u8
+#EXTINF:-1 group-title="OPTION TV",Disney Channel
+http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8
+#EXTINF:-1 group-title="OPTION TV",Disney Channel BkUp
+http://95.170.215.118:80/hls/m3u8/Disney-Channel.m3u8
+#EXTINF:-1 group-title="OPTION TV",Sony BBC Earth
+https://streamer-1.toffeelive.com/live/sony_bbc_earth_720/index.m3u8
+#EXTINF:-1 group-title="OPTION TV",Only Motors
+https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-onlymotors/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OPTION TV",DocuBox
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+#EXTINF:-1 group-title="OPTION TV",HGTV CA.
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/670
+#EXTINF:-1 group-title="OPTION TV",NHK World
+http://210.210.155.35/uq2663/h/h23/index.m3u8
+#EXTINF:-1 group-title="OPTION TV",Fishing & Hunting
+http://95.170.215.118:80/hls/m3u8/Fishing-And-Hunt.m3u8
+#EXTINF:-1 group-title="OPTION TV",Beach TV (Panama City)
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1 group-title="OPTION TV",Beach TV (Pawleya Island)
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 group-title="OPTION TV",FX
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/566
+#EXTINF:-1 group-title="OPTION TV",France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
+#EXTINF:-1 group-title="OPTION TV",HBO
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/671
+#EXTINF:-1 group-title="OPTION TV",HBO Hit
+https://swhd.herokuapp.com/https://live.dufree4k.net/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1 group-title="OPTION TV",HBO
+http://95.170.215.118:80/hls/m3u8/HBO.m3u8
+#EXTINF:-1 group-title="OPTION TV",HBO 2
+http://95.170.215.118:80/hls/m3u8/HBO-2.m3u8
+#EXTINF:-1 group-title="OPTION TV",HBO 3
+http://95.170.215.118:80/hls/m3u8/HBO-3.m3u8
+#EXTINF:-1 group-title="OPTION TV",History
+http://95.170.215.118/hls/m3u8/History.m3u8
+#EXTINF:-1 group-title="OPTION TV",History BkUp
+http://95.170.215.118:80/hls/m3u8/History.m3u8
+#EXTINF:-1 group-title="OPTION TV", History 2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:-1 group-title="OPTION TV",Hits
+http://210.210.155.35/uq2663/h/h37/index.m3u8
+#EXTINF:-1 group-title="OPTION TV",Insight
+http://jiocgwhub.jio.ril.com/Insight/Insight.m3u8
+#EXTINF:-1 group-title="OPTION TV",Romedy Now
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+#EXTINF:-1 group-title="OPTION TV",RT English
+http://rt-news.secure.footprint.net/1103.m3u8
+#EXTINF:-1 group-title="OPTION TV",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:-1 group-title="OPTION TV",Sony Movies
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/playlist.m3u8
+#EXTINF:-1 group-title="OPTION TV",Star Movies HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 group-title="OPTION TV",Star Movies HD BkUp
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+#EXTINF:-1 group-title="OPTION TV",Star World HD
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+#EXTINF:-1 group-title="OPTION TV",Star World HD BkUp
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
+#EXTINF:-1 group-title="OPTION TV",Thrill
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 group-title="OPTION TV",Warner TV HD
+https://live.dufree4k.net/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="OPTION TV",Zee Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="OPTION TV", Music Now
+http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
+#EXTINF:-1 group-title="OPTION TV",MBC 1 HD
+http://95.170.215.118/hls/m3u8/MBC1-Ali-Mar-AA-Z.m3u8
+#EXTINF:-1 group-title="OPTION TV",MBC 2 HD
+http://95.170.215.118/hls/m3u8/MBC2-QQ-DD-G-C.m3u8
+#EXTINF:-1 group-title="OPTION TV",MBC 3 HD
+http://livecdnh2.tvanywhere.ae/hls/mbc3/03.m3u8
+#EXTINF:-1 group-title="OPTION TV",MBC 4 HD
+http://95.170.215.118/hls/m3u8/MBC4-EE-DD-V-Z.m3u8
+#EXTINF:-1 group-title="OPTION TV",MBC Drama HD
+http://95.170.215.118/hls/m3u8/MBCDRAMA-RR-AA-B.m3u8
+#EXTINF:-1 group-title="OPTION TV",MBC Max
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
+#EXTINF:-1 group-title="OPTION TV",MBC Max HD
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
+#EXTINF:-1 group-title="OPTION TV",MBC Action HD
+http://95.170.215.118/hls/m3u8/MBC-ACTION-YY-TT.m3u8
+#EXTINF:-1 group-title="OPTION TV",MBC Bollywood
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+#EXTINF:-1 group-title="OPTION TV",MBC HD Variety
+http://95.170.215.118/hls/m3u8/MBC-P-VARity-FF-CC.m3u8
+#EXTINF:-1 group-title="OPTION TV",MBC plus Drama
+http://95.170.215.118/hls/MBC-DRAMA-SS-D.m3u8
+#EXTINF:-1 group-title="OPTION TV",MBC plus Vatity
+http://95.170.215.118/hls/MBC-P-VARity-FF.m3u8
+#EXTINF:-1 group-title="OPTION TV",TLC HD Hindi
+http://streamer.multitvsolution.in//live//TLCHDHindi-a//p4.m3u8
+#EXTINF:-1 group-title="OPTION TV",TLC HD Eng
+https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
+#EXTINF:-1 group-title="OPTION TV",TLC HD Ru.
+http://95.170.215.120/hls/m3u8/TLC-HD.m3u8
+#EXTINF:-1 group-title="OPTION TV",TF1 HD
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/master_2000000.m3u8
+#EXTINF:-1 group-title="OPTION TV",Bein Movies 1
+http://95.170.215.120/hls/m3u8/Bein-Movies1.m3u8
+#EXTINF:-1 group-title="OPTION TV",Bein Movies 2
+http://95.170.215.120/hls/m3u8/Bein-Movies2.m3u8
+#EXTINF:-1 group-title="OPTION TV",Bein Movies 3
+http://95.170.215.120/hls/m3u8/Bein-Movies3.m3u8
+#EXTINF:-1 group-title="OPTION TV",Bein Movies 4
+http://95.170.215.120/hls/m3u8/Bein-Movies4.m3u8
+#EXTINF:-1 group-title="OPTION TV",Bein Gourmet HD
+http://95.170.215.120/hls/m3u8/BeinGourmet.m3u8
+#EXTINF:-1 group-title="OPTION TV",Bein FataFeat
+http://95.170.215.120/hls/m3u8/BeinFatafeat.m3u8
+#EXTINF:-1 group-title="OPTION TV",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 group-title="OPTION TV",DMC HD
+http://livecdnh3.tvanywhere.ae/hls/dmchd/03.m3u8
+#EXTINF:-1 group-title="OPTION TV",SHOW HD
+http://31.14.40.139:1935/liveTrans/SHOW1/chunklist.m3u8
+#EXTINF:-1 group-title="OPTION TV",MTV HD Arabic
+http://95.170.215.109/hls/m3u8/MTV-Backup.m3u8
+#EXTINF:-1 group-title="OPTION TV",BOOMERANG HD
+http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
+#EXTINF:-1 group-title="OPTION TV",Euro Sports 1 HD
+http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
+#EXTINF:-1 group-title="OPTION TV",Euro Sports 2 HD
+http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
+#EXTINF:-1 group-title="OPTION TV",Bein Sports NBA
+http://95.170.215.120/hls/m3u8/Bein-Sport-NBA-HAK-NGC.m3u8
+#EXTINF:-1 group-title="OPTION TV",Bein Sports News
+http://95.170.215.120/hls/m3u8/Bein-Sport-News-ALI-MCR-NGC.m3u8
+#EXTINF:-1 group-title="OPTION TV",Bein Sports 1 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
+#EXTINF:-1 group-title="OPTION TV",Bein Sports 2 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
+#EXTINF:-1 group-title="OPTION TV",Bein Sports 3 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
+#EXTINF:-1 group-title="OPTION TV",Bein Sports 4 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
+#EXTINF:-1 group-title="OPTION TV",Bein Sports 5 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
+#EXTINF:-1 group-title="OPTION TV",Bein Sports 6 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
+#EXTINF:-1 group-title="OPTION TV",Bein Sports 7 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport7.m3u8
+#EXTINF:-1 group-title="OPTION TV",Bein Sports 8 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport8.m3u8
+#EXTINF:-1 group-title="OPTION TV",Bein Sports 9 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport9.m3u8
+#EXTINF:-1 group-title="OPTION TV",Bein Sports 10 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport10.m3u8
+#EXTINF:-1 group-title="OPTION TV",Bein Sports 11 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport11.m3u8
+#EXTINF:-1 group-title="OPTION TV",Bein Sports 12 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport12.m3u8
+#EXTINF:-1 group-title="OPTION TV",Sky Sports 1 Main Event
+http://95.170.215.120:80/hls/m3u8/Sky-Sports-1HD.m3u8
+#EXTINF:-1 group-title="OPTION TV",Sky Sports 2 Action
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8
+#EXTINF:-1 group-title="OPTION TV",Sky Sports 3 Premier League
+http://95.170.215.120:80/hls/m3u8/Sky-Sports-3HD.m3u8
+#EXTINF:-1 group-title="OPTION TV",Sky Sports 4 Football
+http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1 group-title="OPTION TV",Sky Sports 5 HD Cricket
+http://95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8
+#EXTINF:-1 group-title="OPTION TV",Sky Sports 5 FHD Cricket
+http://95.170.215.120:80/hls/m3u8/Sky-Spor-cricket.m3u8
+#EXTINF:-1 group-title="OPTION TV",BT Sports 1 HD
+http://95.170.215.120:80/hls/m3u8/BT-Sport-1HD.m3u8
+#EXTINF:-1 group-title="OPTION TV",BT Sports ESPN HD
+https://sport7.ws/lba/123/g7/btse.m3u8
+#EXTINF:-1 group-title="OPTION TV",ESPN
+http://cdn.yoursports.stream/espn.m3u8
+#EXTINF:-1 group-title="OPTION TV",ESPN 2
+http://cdn.yoursports.stream/espn2.m3u8
+#EXTINF:-1 group-title="OPTION TV",Golf Channel
+http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
+#EXTINF:-1 group-title="OPTION TV",Super Sports 1 Tennis
+https://sport7.biz/lba/123/g5/itsupertennis.m3u8
+#EXTINF:-1 group-title="OPTION TV",FOX Fire Movies
+http://95.170.215.118:80/hls/m3u8/FOX-ACTION-PP-SS-A.m3u8
+#EXTINF:-1 group-title="OPTION TV",FOX Family Movies
+http://95.170.215.118:80/hls/m3u8/FOX-FAMILY-AA-SSS-Q-RR.m3u8
+#EXTINF:-1 group-title="OPTION TV",FOX Crime
+https://live.dufree4k.net/02_FoxCrimeHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="OPTION TV",My Cinema HD
+http://95.170.215.118:80/hls/m3u8/My-Cinema-HD--UU-FF-RR.m3u8
+#EXTINF:-1 group-title="OPTION TV",Pro Art Inc
+https://win1.yayin.com.tr/cine5/cine5/chunklist.m3u8
+#EXTINF:-1 group-title="OPTION TV",True Film HD 1
+https://live.dufree4k.net/02_TrueFilmHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="OPTION TV",True Film HD 2
+https://live.dufree4k.net/02_TrueFilmHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="OPTION TV",FilmRise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 group-title="OPTION TV",FilmRise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
+#EXTINF:-1 group-title="OPTION TV",Sony Movies
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="OPTION TV",ITV 1
+https://streamingserver002.viewtvgroup.com/kapanglivetv-uksat-itv1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OPTION TV",ITV 2
+https://streamingserver002.viewtvgroup.com/kapanglivetv-uksat-itv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OPTION TV",ITV 3
+https://streamingserver002.viewtvgroup.com/kapanglivetv-uksat-itv3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OPTION TV",ITV 4
+https://streamingserver002.viewtvgroup.com/kapanglivetv-uksat-itv4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OPTION TV",BBC World
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 group-title="OPTION TV",BBC News
+https://bozztv.com/36bay2/gin/giniko_bbcone_1000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OPTION TV",BBC 2
+https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OPTION TV",BBC 3
+https://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OPTION TV",Channel 4 HD
+https://streamingserver002.viewtvgroup.com/kapanglivetv-uksat-channel4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OPTION TV",Channel 5 HD
+https://streamingserver002.viewtvgroup.com/kapanglivetv-uksat-channel5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OPTION TV",Film Box
+http://95.170.215.118/hls/m3u8/MY-FILMBOX-OO-AA-FF.m3u8
+#EXTINF:-1 group-title="OPTION TV",Film Box
+http://95.170.215.118:80/hls/MY-FILMBOX-OO-AA.m3u8
+#EXTINF:-1 group-title="OPTION TV",RAI Movies HD
+https://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
+#EXTINF:-1 group-title="OPTION TV",Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:-1 group-title="OPTION TV",FMHot + Movies
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
+#EXTINF:-1 group-title="OPTION TV",My Cinema HD
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1 group-title="OPTION TV", Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 group-title="OPTION TV",Movee 4U
+https://nimble.dashstreams.net/onestudio/movee4u/chunks.m3u8
+#EXTINF:-1 group-title="OPTION TV",AMC CA.
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/722
+#EXTINF:-1 group-title="OPTION TV",24 HD
+http://51.158.190.97/hls/stream.m3u8
+#EXTINF:-1 group-title="OPTION TV",iFilm EN
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist.m3u8
+#EXTINF:-1 group-title="OPTION TV", Jackie Chan Movies (Only)
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="OPTION TV",Movies 2
+https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 group-title="OPTION TV",Movies 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="OPTION TV",Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 group-title="OPTION TV",Movies 7
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:-1 group-title="OPTION TV",Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="OPTION TV",Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="OPTION TV",Movies 12
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="OPTION TV",American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 group-title="OPTION TV",American Horrors BkUp
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="OPTION TV",CMC TV
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+#EXTINF:-1 group-title="OPTION TV", Horrified TV
+https://nimble.dashstreams.net/onestudio/horrified/chunks.m3u8
+#EXTINF:-1 group-title="OPTION TV",Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 group-title="OPTION TV",9XO
+http://streamer.multitvsolution.in//live//9XO-b//p4.m3u8
+#EXTINF:-1 group-title="OPTION TV",MTV Norge
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 group-title="OPTION TV",MTV Hits
+http://185.176.117.243/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+#EXTINF:-1 group-title="OPTION TV",PBS Miami FL
+http://190.80.3.28/PBS/PBS.isml/index.m3u8
+#EXTINF:-1 group-title="OPTION TV",iNews24
+https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
+#EXTINF:-1 group-title="OPTION TV",Hunt TV
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC",DANGDUT CHANNEL
@@ -1920,32 +2307,119 @@ http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist_b814000.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC",RETRO TV
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="KNOWLEDGE",NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES" group-title="KNOWLEDGE",OUTDOOR CHANNEL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES" group-title="Knowledge",OUTDOOR CHANNEL
 https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_big.png?v=2.0.0.13" group-title="KNOWLEDGE",National Geographic (Backup)
-http://livecdnh1.TVanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_big.png?v=2.0.0.13" group-title="KNOWLEDGE",National Geographic WILD (Backup)
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="KNOWLEDGE",Ruang Terampil
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="Knowledge",Ruang Terampil
 https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574876064~exp=9007200829617055~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_2/chunklist.m3u8*~hmac=43e732720209b4ede047d32a879e517cc1f2b74fc30d7793054e461b394dfe57
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMJU_9tQ7p7AL9yxk99lg7Ajr7muv151xM9D6HJObyzuJ3Z7Uu" group-title="KNOWLEDGE",OCEAN TV
-http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Foodie.png/revision/latest?cb=20190207074112" group-title="KNOWLEDGE",Foodie Channel
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Foodie.png/revision/latest?cb=20190207074112" group-title="Knowledge",Foodie Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
 
-#EXTINF:-1 tvg-logo="https://c1.staticflickr.com/9/8142/7238493116_82bbf6de31_b.jpg" group-title="KNOWLEDGE",Home & Living
+#EXTINF:-1 tvg-logo="https://c1.staticflickr.com/9/8142/7238493116_82bbf6de31_b.jpg" group-title="Knowledge",Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE",TECHSTORM
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
+
+#EXTINF:-1 logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Knowledge",NASA TV 
+http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#http://188.35.9.5:10020/stolen/483x/hot.dll
+#EXTINF:-1 logo="https://oceantv.net/wp-content/uploads/logo_main.png" group-title="Knowledge",OCEAN TV
+http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnIuF9Yv12RjXsEKlHBnsVOB4mY20dGkmimbx1rmB8P5HMIJY7" group-title="Knowledge",NAT GEO WILD
+http://203.153.218.28:9981/stream/channelid/1497533758?ticket=A1217AFD7D4BACB9F66B9B369E8BC5B02FB0CEE4&profile=pass
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpmxqdtRD23GOO_OBrntlQlhEaL0NJhejPcZ2GRpiuIMH7629J" group-title="Knowledge",NAT GEOGRAPHIC
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=6125EF8C23E1DC1183AD45B22AB25E348AB2CB97&profile=pass
+#EXTINF:-1 logo="http://d30gyci1pdbs71.cloudfront.net/logos-natgeo.png" group-title="Knowledge",NAT GEO PEOPLE
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD1C094DE6F1AAC530B98C0D&profile=pass
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNZKnN39c098wllVO-FAu6sLWmhtJjVkiQiVxyBEzQQHJsHSvs" group-title="Knowledge",Animal planet 
+http://203.153.218.28:9981/stream/channelid/1943600623?ticket=B9755D3F6F97FAC8FEFC0E14BC05B2F2CE0CDB76&profile=pass
+
+#http://161.0.157.7/PLTV/88888888/224/3221226253/index.m3u8
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTonRihu5BInI37ISoEyG2PetLd7SHsmDoBIcaF0Id4o4Z2nbJz" group-title="Knowledge",Discovery Hd 
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=078500147F811BFE771335FA49291072620A412D&profile=pass
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYYmrnNJY5JGftIxRsf32EWt83LUoQacvSQjlQxAycKgFMJ_Lq" group-title="Knowledge",BBC EARTH
+http://203.207.56.228/live/iptv001.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdkWJHDuI1PwzPAJf50V8BYmX1x9L--7dk-EuI-23kXf04ma6H" group-title="Knowledge",BBC LIFESTYLE
+http://203.207.56.228/live/iptv002.m3u8
+
+#http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Knowledge",CGTN DOCUMENTARY
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqbK9SURI1-kzoYBsyRjk4e78K7Z-Tma9EgqM8wJkatiX2rAFm" group-title="Knowledge",Asia food chanel 
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8 
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Knowledge",HISTORY
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=3447A71572697A20883C796D7F6C137B2F95FF0C&profile=pass
+#EXTINF:-1 logo="https://www.oona.tv/assets/img/channels/homeandliving.png" group-title="Knowledge",HOME & LIVING
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2019/04/sinema-indonesia.jpg" group-title="Knowledge", SINEMA INDONESIA
+http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRk3dDAkPW15BiHXuIBDAl3qRIWTW-K2ak4Q-58irFZSlrwv0Tm" group-title="Knowledge",JGO
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="Knowledge",KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSf-Q92a1BgpPXbXuSUHvyHnzZjrSTdWr_icERXeJieySqEOF5f" group-title="Knowledge",HITS
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS46lbf9-t-1bDp5zQkIXIEeMI4ACZ9m7bAeMmm_mA6SdJgxh-X" group-title="Knowledge",DIVA
+http://210.210.155.35/uq2663/h/h11/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQir-05Uqy2qGMseQlu0MTuy7TWUH7-LYyxZEYHzA0FyMSukdhG" group-title="Knowledge",E!
+http://210.210.155.35/uq2663/h/h10/01.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzE0MAlH5YXjJe1d_0vRXGCGzDk5QA7u0iVGa2ugxVzuifAMN2" group-title="Knowledge",BLUE ANT EXTREME
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzE0MAlH5YXjJe1d_0vRXGCGzDk5QA7u0iVGa2ugxVzuifAMN2" group-title="Knowledge",BLUE ANT EXTREME (Backup)
+http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbPObEns4Ov4RfzNLtVIUJbRaf49Tf-0GG7I4cNlD1--6AGVmI" group-title="Knowledge",BLUE ANT ENTERTAINMENT
+http://45.126.83.51/dr9445/h/h16/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCLzW3A3jwB1a-_XN4agopwVpJqPFXcxlgIzKr1ULkUCeL872l" group-title="Knowledge",K-PLUS
+http://210.210.155.35/uq2663/h/h08/01.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNdBME_x-6aaiNCkSNorxKvbTrgJmMF07EqtNwTeojCiOjreLP" group-title="Knowledge",SONY ONE
+http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGalk8ZMBcQ-ZDTlh0xNWqBb430tBKd2MUCc6fTuS5c95ypK95" group-title="Knowledge",SONY GEM
+http://210.210.155.35/uq2663/h/h19/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLWh55ZABv5ZVrN6spTtU_07EQ_T0W4x935wsLmMBrdrDnP2F-" group-title="Knowledge", Outdoor
+https://stitcher.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b37cef12f9heq1mq8ah9ia4h70
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQt5MoSO8ScSJ5Yufqlte84Rv9T5N1z-cyMzpLlmY_GplTvqdt" group-title="Knowledge", Discovery scane http://80.80.160.168/live/9/2500000/live.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcScQJzjNwPIO9vIMh8jFb63_G_hFWURL6ArrHlw2_Bzl9IkDmZw" group-title="Knowledge",ANU
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsMxfVqKOwOdXnQYwGc3aO2BQ_pYxUSvlJaM0jRPSWNeCW7088" group-title="Knowledge",Green Planet
+#http://80.80.160.168/live/4/500000/live.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFwDg0Iedk8LVxJ2Vee42cccfdPe59oJOCFADoG5z3AVV6zgQj" group-title="Knowledge",G 
+#http://80.80.160.168/live/5/500000/live.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQmkupwAIVbij6wCkU1OUo6eUz8_81TylmTcKJ_5lB1bYHdwDLm" group-title="Knowledge", Investigation Discovery 
+#http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7hlzMCpQZmQxqvCW99TrDcQdZ4EL1_fs68mQSdH6ChpUfKQtj" group-title="Knowledge",Viasat 
+https://hls-viasat.cdnvideo.ru/hls/relay/1501746731655/index.m3u8?md5=2Dxnjzcr2UxtTABLqdfYTA&e=1541934953&hls_proxy_host=97544926393025ab05ebfb4dc3486095
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRciOp9hfJgYf9AN7Tgxj6hQl7JbMS3fi131K3GkdD8GFTSTE6-" group-title="Knowledge",Showtime 
+#http://80.80.160.168/live/7/2500000/live.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjLtplRy96-tvULn94yPdRhe0m1vS9resneEGASebFEwAu_vav" group-title="Knowledge",TLC 
+#http://80.80.160.168/live/2/500000/live.m3u8
+#EXTINF:-1 logo="https://travel.home.sndimg.com/content/dam/images/travel/editorial/homepage/TRVL-default-image_4x3.jpg.rend.hgtvcom.616.462.suffix/1539121995359.jpeg" group-title="Knowledge",Travel 
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQDgc7p_FAcPUXyNUwlfljXk0HwI3GccigmK8QoNbhW4BDJPe73" group-title="Knowledge",Arirang 
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnIuF9Yv12RjXsEKlHBnsVOB4mY20dGkmimbx1rmB8P5HMIJY7" group-title="Knowledge",NAT GEO WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#http://203.207.56.228/live/iptv007.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpmxqdtRD23GOO_OBrntlQlhEaL0NJhejPcZ2GRpiuIMH7629J" group-title="Knowledge",NAT GEOGRAPHIC
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdAR0U3qUgBIlmsGkz4-1Kk4TMNLc77kAF73EB-G-o0oDN9gkh" group-title="Knowledge",NAT GEO PEOPLE
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD1C094DE6F1AAC530B98C0D&profile=pass
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYYmrnNJY5JGftIxRsf32EWt83LUoQacvSQjlQxAycKgFMJ_Lq" group-title="Knowledge",BBC EARTH
+http://203.207.56.228/live/iptv001.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdkWJHDuI1PwzPAJf50V8BYmX1x9L--7dk-EuI-23kXf04ma6H" group-title="Knowledge",BBC LIFESTYLE
+http://203.207.56.228/live/iptv002.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1111842868908318721/lMvLaebw_400x400.jpg" group-title="SPORTS",TVRI SPORTS
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8

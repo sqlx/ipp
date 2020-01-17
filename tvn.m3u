@@ -444,47 +444,108 @@ http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvpyHTI.png" group-title="FILM 24 JAM",Mandarin Series
 http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="KIDS",Animax
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg" group-title="KIDS",Aniplus
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(386e35b2-14f8-4368-92d7-010d78deaf75)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" group-title="KIDS",Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://tbivision.com/files/2015/05/miao-logo.jpg" group-title="KIDS",Miao Mi
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://commodusprod.hooq.tv/cdnimagesprod/assets/feed/34c6ccfc44fa.png" group-title="KIDS",THE PET COLLECTIVE
-https://livetvhooq.akamaized.net/b31c750a9bbe45fcbe58d72534e6b8f6/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1577080744~exp=9007200831821735~acl=/b31c750a9bbe45fcbe58d72534e6b8f6/*/profile_2/chunklist.m3u8*~hmac=baa54452db02d00d42b3b34565dd2c7ac10da7fdec56bbe1e717ce4fccaba918
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/NickToons_TV.svg/revision/latest/scale-to-width-down/200?cb=20091118204932" group-title="KIDS",NickToons
-http://213.252.252.17/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
-
-#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180721/aq/kisspng-boomerang-logo-television-channel-tom-and-jerry-dog-5b53c4af10de42.3513045215322164950691.jpg" group-title="KIDS",Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="9836fd0e31a19540234d0fe226ec84af"  group-title="KIDS",Cartoon Network
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass
-
-#EXTINF:-1 tvg-id="6481ae2680f7ea45c5a379af51eefd44"  group-title="KIDS",Nickelodeon Asia
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=0DB19E0638CE26116D1EAB88EABDF8BB02DA784A&profile=pass
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg" group-title="KIDS",Duck TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WnZaIlo.jpg" group-title="KIDS CHANNEL",Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
-
-#EXTINF:-1 tvg-logo="https://movies.chanelbanten.com/uploads/tv_image/ebs-kids.png" group-title="KIDS",EBS Kids
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.logovaults.com/stock_thumb/preview-baby-tv-2013-01-27.jpg" group-title="KIDS",Baby TV
-https://www.livedoomovie.com/02_Baby_TV_HD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS",Cartoon Network
-http://188.35.9.11:21151/udp/185f
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS",SPACETOON
-http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
+#EXTINF:-1  tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" group-title="KIDS CHANNEL",AniPlus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="KIDS CHANNEL",Aniplus
+http://rr1.dens.tv/h/h02/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/dztnc_Wsuy8/maxresdefault.jpg" group-title="KIDS CHANNEL",ANIMAX
+http://210.210.155.35/dr9445/h/h144/index2.m3u8
+#EXTINF:-1  tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="KIDS CHANNEL",MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS CHANNEL",DISNEY JUNIOR Indo SD
+http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS CHANNEL",DISNEY JUNIOR Indo HD
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 group-title="KIDS CHANNEL",BIZNET
+http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w761082683_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD0zekpVVldLVXZUbGtoUG03ZUMzU0FJMU13cnU0RVBKWVJDUEpIbXZ4Z1pLd0xJWmdkSGt1OXBXOWpud0xydDN2.m3u8
+#EXTINF:-1 group-title="KIDS CHANNEL",BIGBUCKBUNNY
+http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
+#EXTINF:-1 group-title="KIDS CHANNEL",EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/_definst_/tablet500k/chunklist_w1145871295.m3u8
+#EXTINF:-1 group-title="KIDS CHANNEL",ANIMAX HD
+http://210.210.155.35/dr9445/h/h144/index2.m3u8
+#EXTINF:-1 group-title="KIDS CHANNEL",ANIPLUS HD
+http://210.210.155.35/session/d28e34c0-2f53-11e9-8f4d-b82a72d63267/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="KIDS CHANNEL",BABY TV
+http://190.13.120.114/streams/babytv.m3u8
+#EXTINF:-1 group-title="KIDS CHANNEL",Animax
+http://210.210.155.35/session/b184e90e-89a3-11e9-8411-c81f66f89318/dr9445/h/h144/02.m3u8
+#EXTINF:-1 group-title="KIDS CHANNEL",My kids
+http://210.210.155.35/session/570cce84-a52c-11e9-86e6-b82a72d63267/x6bnqe/s/s113/index.m3u8
+#EXTINF:-1 logo="https://i.pinimg.com/originals/a8/a7/f8/a8a7f86247f8dfed300fa62bda462cdb.png" group-title="KIDS CHANNEL",NICK JR
+http://203.207.56.228/live/iptv018.m3u8
+#EXTINF:-1 logo="https://vignette.wikia.nocookie.net/dreamworks/images/3/3a/Logo_Nickelodeon.png/revision/latest?cb=20170429072058" group-title="KIDS CHANNEL", NICKELODEON 
+http://203.207.56.228/live/iptv014.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dreamworks/images/3/3a/Logo_Nickelodeon.png/revision/latest?cb=20170429072058" group-title="KIDS CHANNEL",Nickelodeon Asia
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
+#EXTINF:-1 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="KIDS CHANNEL",Disney Channel
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR01y0xF3MGcnUB1-kNh1aQzCs7xqZ2o2JeQLGEthAlKNZIk0kc" group-title="KIDS CHANNEL",Disney XD
+https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="KIDS CHANNEL", BOOMERANG
+http://203.207.56.228/live/iptv026.m3u8
+#EXTINF:-1 logo="https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:scenic:/international/nick.co.uk/video/images/halloween/video-halloweenquiz-16x9.jpg?quality=1&height=360&width=640&matte=true&crop=false" group-title="KIDS CHANNEL",SPOOKY NICK
+http://213.252.252.17/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1 logo="https://www.liveabout.com/thmb/7SiGVptV1daM4Gwlu8DQDtWT-SU=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/Babyfirst-logo-579d69815f9b589aa9ac47ca.png" group-title="KIDS CHANNEL",Baby First
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="KIDS CHANNEL",CARTOON NETWORK
+http://203.207.56.228/live/iptv027.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="KIDS CHANNEL",Spacetoon
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjMXQ2d2qv8-AWoxKOWboph0KAwgc6qJ7DWL1AZf6w0mCMqIl1" group-title="KIDS CHANNEL",Tom & Jerry TV
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSn99xMsFA0pQ-0_Gc4ltchIQJIpV8q1Nz7DBWvowR06B_m0Vbz" group-title="KIDS CHANNEL",LARVA TV
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYY5Men-2vHQHXWO851wEfeIw9BSK8ij6WMkXK7Wx1m5HZn8qx" group-title="KIDS CHANNEL", KurdMax Papule
+http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdbXOVNW-Ztj62ac9MgKqXW5DKnKfNqaP0hLGVgp0viSYQiOu7" group-title="KIDS CHANNEL", Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgp03hzDzxCphKexZrk_kW9TePddS8RE8NafGtHh6j_bHdlpP8" group-title="KIDS CHANNEL",3ABN KIDS TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxhUqVpo00XIJ5iox8ofbqm0O-Kro5qfREEG6Krw10_zw7gGD9" group-title="KIDS CHANNEL",ToonMax
+http://rr2.dens.tv/s/s50/01.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-raOfRgsXZT7oOYxFllG15-ZcoEDCeQ_eM052aROHzDwh9qZU"group-title="KIDS CHANNEL",Kurokoai Basketball 
+http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJqNAuYEtH1bocPiCtvcnDzIS67pQOtj1F-RvOPP79-63tXMIV" group-title="KIDS CHANNEL", DRAGON BALL KAI TV
+http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcWFjgqQPgMf9QmzkJnXJBuIMpDWfQMTMaJV7mwuMLlRlrIQLt" group-title="KIDS CHANNEL", DRAGON BALL Z TV
+https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6RKVYziFVrkjzX8vCmm9RUpT_hxm7tNRcZVx2e5t6tpx4nR8m" group-title="KIDS",Boruto TV
+http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZAP0JO0-GkvS-F2y4TYpYqZ82gSnQgmX5-vY0VLU2Kph3ZdJi" group-title="KIDS CHANNEL",Captain Stubasa 2019 TV
+http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.flv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8-0QbwU_pnZvfXmzjGziziVYqEtgzq0uLW40LFpPp5c_CP8W2" group-title="KIDS CHANNEL",DETECTIFE CONAN 1 TV
+http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRcpxjgYQy8hCdcTtrhjKekl9A3XlXlVZJ7EqeorXVJ1wTv1S7" group-title="KIDS CHANNEL",DETECTIFE CONAN 2 TV
+http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMaVEQyf4zZJdkOj2ft61g438KXqcI_Nv8Cmmk37I9K-azdHIg" group-title="KIDS CHANNEL",DETECTIFE CONAN 3 TV
+http://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184_high.flv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSK9L796tvhaFUJz1jr9_HatWJyluE_DQh6cH8cMRkuzT0_g5wN" group-title="KIDS CHANNEL",DORAEMON SERIES
+http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjauqNv1_JTtt62fuMHpMkeYLqqS3eRWOeHVvL4T9PWAOa7wQQ" group-title="KIDS CHANNEL",DORAEMON MOVIE
+http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv?fluxustv.flv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0OEtUnN-gRkqMJpmh-ZT7mmwxl6gqjD97yB9GZaa02jTrBXpC" group-title="KIDS CHANNEL",HUNTER X HUNTER
+http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTD98VKg11wqpshxiFOSCVZ4h6IvW7H_1-qT5sdcit8JrFSh4Ek" group-title="KIDS CHANNEL",INUYASHA
+http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high.flv
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQCO6Co25pno__W5dyn5AxGnHyPWiUrst4E6P1w01e5kloBAbMR" group-title="KIDS CHANNEL", TOTALLY SPIES
+http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBzp7BGwolru9XytjrckBBty17cJNgo2O57XQkEkMA2v7RtXJH" group-title="KIDS CHANNEL", ONE PIECE TV
+http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0S1bAQA1Xjjfcf_C0agfo0lkMvzsx6G9_bjNXz5O12DC9QCMC" group-title="KIDS CHANNEL", ONE PUNCH MAN
+http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8tSobrUdKBTm0HeAeVM6616_lZOfykhpFV6X7tcH42R5vxKNl" group-title="KIDS CHANNEL",Nice Binggo
+http://61.58.60.230:9319/live/206.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRjE48T16qYZzXwJMotlU_dO1sTikhH7cCnSQpHVQdn-2OqBT9" group-title="KIDS CHANNEL",Tiji
+http://ott-cdn.ucom.am/s59/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQd1cxI-p1VvBkcGJzO_Q3Rtlsra-Xgu39ucVMJvB87y1eiZ4y0" group-title="KIDS CHANNEL",TRT Cocuk
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1 logo="https://vignette.wikia.nocookie.net/international-entertainment-project/images/7/75/My_Little_Pony_Friendship_Is_Magic_-_season_7_logo_%28English%29.png/revision/latest/scale-to-width-down/350?cb=20180820045003" group-title="KIDS CHANNEL",Tuntunik
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ24Psuj0ngQvXDHM9eiN9-QbxA0wnRWn-bccixoM3rZOCKrV__" group-title="KIDS CHANNEL",Greek kids
+http://wpso.com:1936/hls/kidshd.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC",DANGDUT CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist_b2288000.m3u8
@@ -9427,3 +9488,4 @@ http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c363ac9e41be30cb6054c7c/featuredImage.jpg" group-title="24/7 PLUTO TV",Yu-Gi-Oh! 5D’s
 https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b45b9ea1nuf9ijm985tiag4ge6
+

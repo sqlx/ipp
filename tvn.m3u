@@ -396,6 +396,23 @@ http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2
 #EXTINF:0 group-title="Hollywood",Hollywood OK 9
 http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
 
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_jJjeLEPH8hZXu8afvFAIJSaXf4_Lohde3NW_damjK57EOz98" group-title="Hollywood Movies",HOLLYWOOD MOVIES 1
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_jJjeLEPH8hZXu8afvFAIJSaXf4_Lohde3NW_damjK57EOz98" group-title="Hollywood Movies",HOLLYWOOD MOVIES 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_jJjeLEPH8hZXu8afvFAIJSaXf4_Lohde3NW_damjK57EOz98" group-title="Hollywood Movies",HOLLYWOOD MOVIES 3
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_jJjeLEPH8hZXu8afvFAIJSaXf4_Lohde3NW_damjK57EOz98" group-title="Hollywood Movies",HOLLYWOOD MOVIES 4
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_jJjeLEPH8hZXu8afvFAIJSaXf4_Lohde3NW_damjK57EOz98" group-title="Hollywood Movies",HOLLYWOOD MOVIES 5
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_jJjeLEPH8hZXu8afvFAIJSaXf4_Lohde3NW_damjK57EOz98" group-title="Hollywood Movies",HOLLYWOOD MOVIES 6
+https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_jJjeLEPH8hZXu8afvFAIJSaXf4_Lohde3NW_damjK57EOz98" group-title="Hollywood Movies",HOLLYWOOD MOVIES 7
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_jJjeLEPH8hZXu8afvFAIJSaXf4_Lohde3NW_damjK57EOz98" group-title="Hollywood Movies",HOLLYWOOD MOVIES 8
+https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ggjJiDw.png" group-title="FILM 24/7H",24/7 Friends
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 
@@ -654,9 +671,786 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/92a8954a-1873-4f61-85e6
 #EXTINF:-1 group-title="VOD MOVIES",YOU NOW SEE ME 2
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
 
-#EXTINF:-1 group-title="VOD MOVIES",ANGRY BIRDS 2
-https://drive.google.com/file/d/0B8_IypdzIhBJR3FCMWNQRWpoUG8/view
 
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Annabelle: Creation (2017)
+http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Godzilla: Planet of the Monsters (2017)
+https://archive.org/download/GodzillaMonsterPlanet/Godzilla%20Monster%20Planet.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Wish Upon (2017)
+http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Wonder Woman (2017)
+http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Almost Christmas (2016)
+https://archive.org/download/AlmostChristmas20161080pRemux/Almost%20Christmas%20(2016)%201080p%20Remux.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Bad Santa 2 (2016)
+https://archive.org/download/BadSanta22016UNRATED1080pRemux/Bad%20Santa%202%20(2016)%20UNRATED%201080p%20Remux.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Captain America: Civil War (2016)
+http://deadlyblogger.com/NewRelease/captain2016.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Colossal (2016)
+https://ia601501.us.archive.org/22/items/LaMaravillasDeLaVida201702/LaMaravillasDeLaVida2017_02.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Doctor Strange (2016)
+http://deadlyblogger.com/NewRelease/strange2016.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Nocturnal Animals (2016)
+https://archive.org/download/NocturnalAnimals20161080pRemux/Nocturnal%20Animals%20(2016)%201080p%20Remux.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Rogue One: A Star Wars Story (2016)
+http://deadlyblogger.com/NewRelease/rogue1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Rules Don't Apply (2016)
+https://archive.org/download/RulesDontApply20161080pRemux/Rules%20Dont%20Apply%20(2016)%201080p%20Remux.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Viral (2016) [Dual-ES]
+https://ia801507.us.archive.org/18/items/viral_201709/viral.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",X-Men: Apocalypse (2016)
+http://deadlyblogger.com/NewRelease/xmen2016.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Avengers: Age of Ultron (2015)
+http://deadlyblogger.com/NewRelease/avengers2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Home (2015)
+https://archive.org/download/Home.2015.720p.YIFYTopArchive.IR/Home.2015.720p.YIFY_TopArchive.IR.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Hateful Eight (2015)
+http://deadlyblogger.com/NewRelease/hateful2015.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Transporter Refueled (2015)
+https://archive.org/download/TheTransporterRefueled20151080pBluRayX264DTSJYK/The%20Transporter%20Refueled%202015%201080p%20BluRay%20x264%20DTS-JYK.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",3 Days to Kill (2014) 
+http://www.deadlyblogger.com/NewRelease/3days.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",A Haunted House 2 (2014)
+http://www.deadlyblogger.com/NewRelease/haunted2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Buck Wild (2014)
+https://archive.org/download/BuckWild2013720p/Buck.Wild.2013.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Captain America: The Winter Soldier (2014)
+http://deadlyblogger.com/NewRelease/wintersoldier.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Dracula Untold (2014)
+http://deadlyblogger.com/NewRelease/dracula.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Free Fall (2014)
+https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Get on Up (2014)
+http://deadlyblogger.com/NewRelease/getonup.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Guardians of the Galaxy (2014)
+http://deadlyblogger.com/NewRelease/guardians2014.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",John Wick (2014)
+http://deadlyblogger.com/NewRelease/johnwick.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Madea's Neighbors from Hell (2014)
+http://www.deadlyblogger.com/NewRelease/fromhell2014.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Maleficent (2014)
+http://www.deadlyblogger.com/NewRelease/maleficent.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Mr. Peabody & Sherman (2014)
+http://www.deadlyblogger.com/NewRelease/sherman2014.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Need for Speed (2014)
+http://www.deadlyblogger.com/NewRelease/needforspeed.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Non-Stop (2014)
+http://www.deadlyblogger.com/NewRelease/nonstop2014.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Paranormal Activity: The Marked Ones (2014)
+http://www.deadlyblogger.com/NewRelease/markedones.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Pompeii (2014)
+http://www.deadlyblogger.com/NewRelease/pompeii2014.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Ride Along (2014)
+http://www.deadlyblogger.com/NewRelease/ridealong2014.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Rio 2 (2014)
+http://www.deadlyblogger.com/NewRelease/rio2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",School Dance (2014)
+http://www.deadlyblogger.com/NewRelease/schooldance.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Taken 3 (2014)
+http://deadlyblogger.com/NewRelease/taken3.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Amazing Spider-Man 2 (2014)
+http://www.deadlyblogger.com/NewRelease/amazin2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Lego Movie (2014)
+http://www.deadlyblogger.com/NewRelease/legomovie2014.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Pirate Fairy (2014)
+http://www.deadlyblogger.com/NewRelease/tinker2014.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Single Moms Club (2014)
+http://www.deadlyblogger.com/NewRelease/singlemom.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Veronica Mars (2014)
+http://www.deadlyblogger.com/NewRelease/veronicamars.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",12 Years a Slave (2013)
+http://www.deadlyblogger.com/NewRelease/12slave.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",47 Ronin (2013)
+http://www.deadlyblogger.com/NewRelease/47ronin.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Afflicted (2013)
+http://www.deadlyblogger.com/NewRelease/afflicted2013.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",After Earth (2013)
+http://www.deadlyblogger.com/NewRelease/after.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",American Hustle (2013)
+http://www.deadlyblogger.com/NewRelease/hustle2013.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Anchorman 2: The Legend Continues (2013)
+http://www.deadlyblogger.com/NewRelease/anchorman2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Bad Grandpa (2013)
+http://www.deadlyblogger.com/NewRelease/badgrandpa2013.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Bad Words (2013)
+http://www.deadlyblogger.com/NewRelease/badwords.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Battle of the Year (2013)
+http://www.deadlyblogger.com/NewRelease/carrie2013.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Carrie (2013)*
+https://archive.org/download/Kickay.blogspot.com_Carrie.2013.HD.1080p_201401/%5Bkickay.blogspot.com%5D%20Carrie%202013%20HD%201080p.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Delivery Man (2013)
+http://www.deadlyblogger.com/NewRelease/deliveryman.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Empire State (2013)
+http://www.deadlyblogger.com/NewRelease/empirestate.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Epic (2013)
+http://www.deadlyblogger.com/NewRelease/epic1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Escape Plan (2013)
+http://www.deadlyblogger.com/NewRelease/escapeplan2013.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Free Birds (2013)
+http://www.deadlyblogger.com/NewRelease/freebirds2013.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Frozen (2013)
+http://www.deadlyblogger.com/NewRelease/disneyfrozen.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Furious 6 (2013)
+http://www.deadlyblogger.com/NewRelease/fast6.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Grown Ups 2 (2013)
+http://www.deadlyblogger.com/NewRelease/grown2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Grudge Match (2013)
+http://www.deadlyblogger.com/NewRelease/grudgematch.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Identity Thief (2013)
+http://www.deadlyblogger.com/NewRelease/identitythief.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Insidious - Chapter 2 (2013)
+http://www.deadlyblogger.com/NewRelease/insidious2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Iron Man 3 (2013)
+http://www.deadlyblogger.com/NewRelease/ironman3.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Kevin Hart: Let Me Explain (2013)
+http://www.deadlyblogger.com/NewRelease/kevin.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Kick-Ass 2 (2013)
+http://www.deadlyblogger.com/NewRelease/kickass2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Killing Season (2013)
+http://www.deadlyblogger.com/NewRelease/killings.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Last Vegas (2013)
+http://www.deadlyblogger.com/NewRelease/lastvegas2013.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Lego Star Wars: The Yoda Chronicles (2013)
+http://www.deadlyblogger.com/NewRelease/legoyoda1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Man of Steel (2013)
+http://www.deadlyblogger.com/NewRelease/steel.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Man of Tai Chi (2013)
+http://www.deadlyblogger.com/NewRelease/tai.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Monsters University (2013)
+http://www.deadlyblogger.com/NewRelease/monsters2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Now You See Me (2013)
+http://www.deadlyblogger.com/NewRelease/nowyouseeme.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Olympus Has Fallen (2013)
+http://www.deadlyblogger.com/NewRelease/fallen1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Prisoners (2013)
+http://www.deadlyblogger.com/NewRelease/prisoners.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Pup (2013)
+https://archive.org/download/TorrentPopular.comPup20131080p1080p/Pup.2013.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Repentance (2013)
+http://www.deadlyblogger.com/NewRelease/repentance.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Runner Runner (2013)
+http://www.deadlyblogger.com/NewRelease/repentance.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Saving Mr. Banks (2013)
+http://www.deadlyblogger.com/NewRelease/savingbanks.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Star Trek: Into Darkness (2013)
+http://deadlyblogger.com/NewRelease/darkness.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Bling Ring (2013)
+http://www.deadlyblogger.com/NewRelease/blingring.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Call (2013)
+http://www.deadlyblogger.com/NewRelease/thecall.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Conjuring (2013)
+http://www.deadlyblogger.com/NewRelease/conjuring.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Grandmaster (2013)
+http://www.deadlyblogger.com/NewRelease/grandmaster.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Family (2013)
+http://www.deadlyblogger.com/NewRelease/thefamily2013.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Hangover Part III (2013)
+http://www.deadlyblogger.com/NewRelease/hangover3.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Heat (2013)
+http://www.deadlyblogger.com/NewRelease/theheat.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Hobbit: The Desolation of Smaug (2013)
+http://www.deadlyblogger.com/NewRelease/smaug2013.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Hunger Games: Catching Fire (2013)
+http://www.deadlyblogger.com/NewRelease/hungergames2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Internship (2013)
+http://www.deadlyblogger.com/NewRelease/internship2013.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Jungle Book: Return 2 the Jungle (2013)
+http://www.deadlyblogger.com/NewRelease/junglebook2013.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Mortal Instruments: City of Bones (2013)
+http://www.deadlyblogger.com/NewRelease/themort1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Starving Games (2013)
+http://www.deadlyblogger.com/NewRelease/starving2013.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Smurfs 2 (2013)
+http://www.deadlyblogger.com/NewRelease/smurfs2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Wolf of Wall Street (2013)
+http://www.deadlyblogger.com/NewRelease/thewolf2013.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Wolverine (2013)
+http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",This Is the End (2013)
+http://www.deadlyblogger.com/NewRelease/theend.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Toy Story of Terror (2013)
+http://www.deadlyblogger.com/NewRelease/storyterror.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Turbo (2013)
+http://www.deadlyblogger.com/NewRelease/turbo.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",We're the Millers (2013)
+http://www.deadlyblogger.com/NewRelease/millers.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",World War Z (2013)
+http://www.deadlyblogger.com/NewRelease/world.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Flight (2012)
+http://www.deadlyblogger.com/NewRelease/flight1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Men in Black 3 (2012)
+http://www.deadlyblogger.com/NewRelease/mnb3.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Pitch Perfect (2012)
+http://www.deadlyblogger.com/NewRelease/pitchperfect.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Project X (2012)
+http://www.deadlyblogger.com/NewRelease/projectx.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Prometheus (2012)
+http://www.deadlyblogger.com/NewRelease/prometheus.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Safe House (2012)
+http://www.deadlyblogger.com/NewRelease/safehouse.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Spring Breakers (2012)
+http://www.deadlyblogger.com/NewRelease/springbreakers.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Bourne Legacy (2012)
+http://www.deadlyblogger.com/NewRelease/bourne4.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Hobbit: An Unexpected Journey (2012)
+http://www.deadlyblogger.com/NewRelease/hobbit1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Hunger Games (2012)
+http://www.deadlyblogger.com/NewRelease/hungergame1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",This Is 40 (2012)
+http://www.deadlyblogger.com/NewRelease/thisis40.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Think Like a Man (2012)
+http://www.deadlyblogger.com/NewRelease/thinklike1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Woggie (2012)
+https://archive.org/download/Woggie-CompleteMovie/ooooooooooooo1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Wrong Turn 5: Bloodlines (2012)
+http://www.deadlyblogger.com/NewRelease/wrongturn5.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Fast Five (2011)
+http://www.deadlyblogger.com/NewRelease/fast5.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",King of Paper Chasin' (2011)
+http://www.deadlyblogger.com/NewRelease/kingpaper.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Rise of the Planet of the Apes (2011)
+http://www.deadlyblogger.com/NewRelease/apes7.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Girl with the Dragon Tattoo (2011)
+http://www.deadlyblogger.com/NewRelease/dragontattoo.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Grey (2011)
+http://www.deadlyblogger.com/NewRelease/grey.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Hangover Part II (2011)
+http://www.deadlyblogger.com/NewRelease/hangover2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Hit List (2011)
+http://www.deadlyblogger.com/NewRelease/hitlist.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Kick (2011)
+http://www.deadlyblogger.com/NewRelease/thekick.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Transformers: Dark of the Moon (2011)
+http://www.deadlyblogger.com/NewRelease/transformers3.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Wrong Turn 4 - Bloody Beginnings (2011)
+http://www.deadlyblogger.com/NewRelease/wrongturn4.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",X: First Class (2011)
+http://www.deadlyblogger.com/NewRelease/xmen4.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Everything Must Go (2010)
+http://www.deadlyblogger.com/NewRelease/mustgo.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Grown Ups (2010)
+http://www.deadlyblogger.com/NewRelease/grown1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Hot Tub Time Machine (2010)
+http://www.deadlyblogger.com/NewRelease/hottub2010.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Insidious (2010)
+http://www.deadlyblogger.com/NewRelease/insidious1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Iron Man 2 (2010)
+http://www.deadlyblogger.com/NewRelease/ironman2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Jackass 3D (2010)
+http://www.deadlyblogger.com/NewRelease/jackass3d.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Saw 3D - The Final Chapter (2010)
+http://www.deadlyblogger.com/NewRelease/saw7.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Tangled (2010)
+http://www.deadlyblogger.com/NewRelease/tangled2010.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Next Three Days (2010)
+http://www.deadlyblogger.com/NewRelease/3days.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Other Guys (2010)
+http://www.deadlyblogger.com/NewRelease/otherguys.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Social Network (2010)
+https://archive.org/download/TheSocialNetwork2010720pBrRipX264700MBYIFY/The%20Social%20Network%20(2010)%20720p%20BrRip%20x264%20-%20700MB%20-%20YIFY.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Unstoppable (2010)
+http://www.deadlyblogger.com/NewRelease/unstoppable.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",A Christmas Carol (2009)
+http://www.deadlyblogger.com/NewRelease/acc2009.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Chiaroscuro Baby (2009)
+https://archive.org/download/ChiaroscuroBaby/ChiaroscuroBaby-1280x720_512kb.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Fast & Furious (2009)
+http://www.deadlyblogger.com/NewRelease/fast4.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Home (2009)
+https://archive.org/download/Home2009/Home2009_512kb.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Land of the Lost (2009)
+http://www.deadlyblogger.com/NewRelease/landlost.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Law Abiding Citizen (2009)
+http://www.deadlyblogger.com/NewRelease/lawcitizen.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Madea Goes to Jail (2009)
+http://www.deadlyblogger.com/NewRelease/madea1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Orphan (2009)
+http://www.deadlyblogger.com/NewRelease/orphan2009.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Saw VI (2009)
+http://www.deadlyblogger.com/NewRelease/saw6.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Chinese Room (2009)
+https://archive.org/download/TheChineseRoom/thechineseroom.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Hangover (2009)
+http://www.deadlyblogger.com/NewRelease/hangover1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Taking of Pelham 123 (2009)
+http://www.deadlyblogger.com/NewRelease/pelham123.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Transformers: Revenge of the Fallen (2009)
+http://www.deadlyblogger.com/NewRelease/transformers2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Wrong Turn 3 - Left for Dead (2009)
+http://www.deadlyblogger.com/NewRelease/wrongturn3.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",X-Men Origins: Wolverine (2009)
+http://www.deadlyblogger.com/NewRelease/origin.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Big Buck Bunny (2008)
+https://archive.org/download/BigBuckBunny_328/BigBuckBunny_512kb.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Iron Man (2008)
+http://www.deadlyblogger.com/NewRelease/ironman1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Meet the Browns (2008)
+http://www.deadlyblogger.com/NewRelease/browns1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Saw V (2008)
+http://www.deadlyblogger.com/NewRelease/saw5.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Semi-Pro (2008)
+http://www.deadlyblogger.com/NewRelease/semipro.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Seven Pounds (2008)
+http://www.deadlyblogger.com/NewRelease/sevenp.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Sita Sings the Blues (2008)
+https://archive.org/download/Sita_Sings_the_Blues_1080p_dirac_vorbis.ogg/Sita_Sings_the_Blues_1080p_dirac_vorbis.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Sobaka (2008)
+https://archive.org/download/Sobaka/sobaka.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Step Brothers (2008)
+http://www.deadlyblogger.com/NewRelease/stepbro.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The House Bunny (2008)
+http://www.deadlyblogger.com/NewRelease/housebunny2014.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",American Gangster (2007)
+http://www.deadlyblogger.com/NewRelease/agangster.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Blades of Glory (2007)
+http://www.deadlyblogger.com/NewRelease/glory.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Hot Fuzz (2007)
+http://www.deadlyblogger.com/NewRelease/hotfuzz.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Am Legend (2007)
+http://www.deadlyblogger.com/NewRelease/iaml.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Insecurity (2007)
+https://archive.org/download/insecurity/Insecurity_512kb.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Ratatouille (2007)
+http://www.deadlyblogger.com/NewRelease/ratatouille.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Saw IV (2007)
+http://www.deadlyblogger.com/NewRelease/saw4.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Steal This Film 2 (2007)
+https://archive.org/download/StealThisFilmII/Steal_This_Film_II.720p_512kb.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Bourne Ultimatum (2007)
+http://www.deadlyblogger.com/NewRelease/bourne3.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Transformers (2007)
+http://www.deadlyblogger.com/NewRelease/transformers1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Wrong Turn 2: Dead End (2007)
+http://www.deadlyblogger.com/NewRelease/wrongturn2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Zeitgeist - The Movie (2007)
+https://archive.org/download/zeitgeist_movie/Zeitgeist_512kb.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Bah Humduck! - A Looney Tunes Christmas (2006)
+https://archive.org/download/Bugs_Bunny_Collection/Bah%2C%20Humduck%21%20-%20A%20Looney%20Tunes%20Christmas%20(2006)%20-%20[arsenaloyal].mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Children of Men (2006)
+https://archive.org/download/ChildrenOfMen20061080pX26510bitJoy/Children%20of%20Men%202006%20(1080p%20x265%2010bit%20Joy).mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Deja Vu (2006)
+http://www.deadlyblogger.com/NewRelease/dejavu.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Elephants Dream (2006)
+https://archive.org/download/ElephantsDream/ed_hd_512kb.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Killa Season (2006)
+http://www.deadlyblogger.com/NewRelease/killa1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Madea's Family Reunion (2006)
+http://www.deadlyblogger.com/NewRelease/madea2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Mickey Saves Santa (2006)
+http://www.deadlyblogger.com/NewRelease/saw3.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Saw III (2006)
+http://www.deadlyblogger.com/NewRelease/saw3.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Steal This Film (2006)
+https://archive.org/download/STEAL_THIS_FILM/StealThisFilm.Part1_512kb.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Step Up (2006)
+https://archive.org/download/StepUp20061080pX264SciencefunMux/Step%20Up%20%282006%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Talladega Nights: The Ballad of Ricky Bobby (2006)
+http://www.deadlyblogger.com/NewRelease/talla.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Fast and the Furious - Tokyo Drift (2006)
+http://www.deadlyblogger.com/NewRelease/fast3.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Wholesale Souls Inc. (2006)
+https://archive.org/download/WholesaleSoulsInc/wholesale-souls-inc_512kb.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",X-Men: The Last Stand (2006)
+http://www.deadlyblogger.com/NewRelease/xmen3.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Between Hurricanes (2005)
+https://archive.org/download/BetwHurr/BETWEEN-HURRICANES_512kb.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Bewitched (2005)
+http://www.deadlyblogger.com/NewRelease/bewitched.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Dirty (2005)
+http://www.deadlyblogger.com/NewRelease/dirty1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Four Brothers (2005)
+http://www.deadlyblogger.com/NewRelease/fourb.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Saw II (2005)
+http://www.deadlyblogger.com/NewRelease/saw2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Exorcism of Emily Rose (2005)
+https://archive.org/download/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Anchorman: The Legend of Ron Burgundy (2004)
+http://www.deadlyblogger.com/NewRelease/anchorman.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Blade: Trinity (2004)
+http://www.deadlyblogger.com/NewRelease/blade3.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Dirty Dancing - Havana Nights (2004)
+http://www.deadlyblogger.com/NewRelease/dirtydancing2004.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Godzilla: Final Wars (2004)
+https://archive.org/download/GodzillaFinalWars/Godzilla%20Final%20Wars.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Hellboy (2004)
+https://archive.org/download/Hellboy2004DirectorsCut1080pX26510bitJoy/Hellboy%202004%20Directors%20Cut%20(1080p%20x265%2010bit%20Joy).mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",I Robot (2004)
+http://www.deadlyblogger.com/NewRelease/irobot.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Kicking & Screaming (2005)
+http://www.deadlyblogger.com/NewRelease/kicking.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Limbo (2004)
+https://archive.org/download/RandallPullenTheDaysofLimbo/The_Days_Of_LimboDIVX_512kb.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Mickey's Twice Upon a Christmas (2004)
+http://www.deadlyblogger.com/NewRelease/mickeytwice.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Napoleon Dynamite (2004)
+http://www.deadlyblogger.com/NewRelease/napolean.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Saw (2004)
+http://www.deadlyblogger.com/NewRelease/saw1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Bourne Supremacy (2004)
+http://www.deadlyblogger.com/NewRelease/bourne2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Day After Tomorrow (2004)
+http://www.deadlyblogger.com/NewRelease/theday2004.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Polar Express (2004)
+http://www.deadlyblogger.com/NewRelease/polarexpress2004.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",2 Fast 2 Furious (2003)
+http://www.deadlyblogger.com/NewRelease/fast2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Bad Boys II (2003)
+http://www.deadlyblogger.com/NewRelease/badboys2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Battle Royale II - Requiem (2003)
+https://archive.org/download/01BattleRoyaleSpecialEdition/02%20-%20Battle%20Royale%20II%20-%20Requiem.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Elf (2003)
+http://www.deadlyblogger.com/NewRelease/elf1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Honey (2003)
+https://archive.org/download/StepUp20061080pX264SciencefunMux/Honey%20%282003%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Finding Nemo (2003)
+http://www.deadlyblogger.com/NewRelease/nemo2003.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Looney Tunes Back in Action (2003)
+https://archive.org/download/Bugs_Bunny_Collection/Looney%20Tunes%20Back%20In%20Action%20(2003)%20-%20[arsenaloyal].mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Malibu's Most Wanted (2003)
+http://www.deadlyblogger.com/NewRelease/malibu1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Nobody Needs To Know (2003)
+https://archive.org/download/Nobody_Needs_To_Know/nobody-needs-to-know_512kb.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Old School (2003)
+http://www.deadlyblogger.com/NewRelease/oldschool1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",#EXTINF:-1,The Lord of the Rings: The Return of the King (2003)
+http://www.deadlyblogger.com/NewRelease/returnking1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Matrix Reloaded (2003)
+http://www.deadlyblogger.com/NewRelease/matrix2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Matrix Revolutions (2003)
+http://www.deadlyblogger.com/NewRelease/matrix3.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Wrong Turn (2003)
+http://www.deadlyblogger.com/NewRelease/wrongturn1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",X2 (2003)
+http://www.deadlyblogger.com/NewRelease/xmen2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",28 Days Later (2002)
+http://www.deadlyblogger.com/NewRelease/28days.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Blade II (2002)
+http://www.deadlyblogger.com/NewRelease/blade2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Dragon Ball Z: Fusion - Last Saiyan (2002)
+https://archive.org/download/DragonBallZFusionTheLastSaiyanVHS/Dragon%20Ball%20Z%20Fusion%20The%20Last%20Saiyan%20VHS.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Friday After Next (2002)
+http://www.deadlyblogger.com/NewRelease/friday3.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Godzilla Against Mechagodzilla (2002)
+https://archive.org/download/GodzillaAgainstMechagodzilla_201703/Godzilla%20Against%20Mechagodzilla.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Home Alone 4 (2002)
+http://www.deadlyblogger.com/NewRelease/homealone4.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Men in Black II (2002)
+http://www.deadlyblogger.com/NewRelease/mnb2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Paid in Full (2002)
+http://www.deadlyblogger.com/NewRelease/paidin.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Shottas (2002)
+http://www.deadlyblogger.com/NewRelease/shottas.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Tarzan & Jane (2002)
+http://www.deadlyblogger.com/NewRelease/tarzanjane.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Bourne Identity (2002)
+http://www.deadlyblogger.com/NewRelease/bourne1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Lord of the Rings: The Two Towers (2002)
+http://www.deadlyblogger.com/NewRelease/twotowers.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Powerpuff Girls Movie (2002)
+https://archive.org/download/PowerpuffGirlsMovie/The%20Powerpuff%20Girls%20Movie.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Ali (2001)
+http://www.deadlyblogger.com/NewRelease/ali1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Jay and Silent Bob Strike Back (2001)
+http://www.deadlyblogger.com/NewRelease/strikeback.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Mickey's Magical Christmas: Snowed in at the House of Mouse (2001)
+http://www.deadlyblogger.com/NewRelease/mmagicalchristmas.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Planet of the Apes (2001)
+http://www.deadlyblogger.com/NewRelease/apes6.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Pootie Tang (2001)
+http://www.deadlyblogger.com/NewRelease/pootie.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Return to Cabin by the Lake (2001)
+http://www.deadlyblogger.com/NewRelease/cabin2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Animal (2001)
+http://www.deadlyblogger.com/NewRelease/animal.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Fast and the Furious (2001)
+http://www.deadlyblogger.com/NewRelease/fast1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Lord of the Rings: The Fellowship of the Ring (2001)
+http://www.deadlyblogger.com/NewRelease/fellowship1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Training Day (2001)
+http://www.deadlyblogger.com/NewRelease/training.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Baller Blockin' (2000)
+http://www.deadlyblogger.com/NewRelease/blockin.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Battle Royale (2000) [EN-Subs]
+https://archive.org/download/01BattleRoyaleSpecialEdition/01%20-%20Battle%20Royale%20-%20Special%20Edition.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Cabin by the Lake (2000)
+http://www.deadlyblogger.com/NewRelease/cabin1.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",How the Grinch Stole Christmas (2000)
+http://www.deadlyblogger.com/NewRelease/grinch2000.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Men of Honor (2000)
+https://archive.org/download/MenOfHonor20001080pX264ItaEnSciencefunMux/Men%20of%20Honor%20%282000%29%201080p%20x264%20ita%20en%20%5bSciencefun%20Mux%5d.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Next Friday (2000)
+http://www.deadlyblogger.com/NewRelease/friday2.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Tweety's High Flying Adventure (2000)
+https://archive.org/download/Bugs_Bunny_Collection/Tweety%27s%20High%20Flying%20Adventure%20(2000)%20-%20[arsenaloyal].mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",X-Men (2000)
+http://www.deadlyblogger.com/NewRelease/xmen1.mp4
+#EXTINF:-1 logo"https://image.tmdb.org/t/p/w300/j2S0cWrQXU8jy5Yj9ElPIl92qm5.jpg" group-title="VOD CAMPURAN",KINGDOM 2019 {Sub Indo}
+https://cdn.apidev.icu/drive/index.php?id=vquZ%2BnekHAumoYP%2B2Et7jw0l7oYkaUu8kRIMjLDrH1%2FzRqIW5ydB4217IheMm46WzG369Nt3H9aIHRon0wK7hJVPmY0Q3n4NQ8jMfPoIepspWGzqj62Y6VW2eU7WC2bKI3nMj1T3ZWWj9oNjfISgoE0Ms1RwcaA5M1wRQOy%2BKht5CymIRbZMbJtfqMk3d6ARQ%3D&ref=https%3A%2F%2Fbos21.xyz%2Fkingdom%2F&res=default
+#EXTINF:-1 logo"https://i.pinimg.com/originals/e1/a4/2a/e1a42a53439e68dacd68a0f33c745f6c.png" group-title="VOD CAMPURAN",FAST & FARIOUS PRESENT: HOOB & SHAW 2019 {Sub Indo}
+https://cdn.clonefile.icu/drive/index.php?id=VvuYMCu6i6%2BvDX0%2BsiauZQ6Hw%2BE7NApCiJ1deD%2Fp7doL2aXqte%2FNAUkDP9l%2FiOqbzJWzHZD3hDMiXXmopHCmuI5bNOYcrzo%2BirmRST2%2BEojlAaHDx9sxYA0jOBKoEofztlDs7ImngmfVQGo9E2eAVA%2FcT%2FGYfUFTuYAywXvuc8atbIUnDBPYO9KEa%2BImh2AEr9YgBq3IcBje6u3pcafx%2BSPGubbe8yZuJBu2%2FTBxxBYA%3D%3D&ref=https%3A%2F%2Fbos21.xyz%2Ffast-furious-presents-hobbs-shaw-2%2F&res=default
+#EXTINF:-1 logo"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3K7XaGV1Rw71QaLbhWUB6WtzSauDlrrTMvqgAdIJjaQLnC0Gc" group-title="VOD CAMPURAN",THE KILL TEAM 2019 {Sub Indo}
+https://cdn.clonefile.icu/drive/index.php?id=iTfHcPAxKBUV2kIuDkGyLwmKUOTmjYaunT82E3OMMtAq%2FU2eCz26EBe%2BYnR3%2B%2B2ci%2FW01EuiuoBEli1%2Fi5ExauwJKB0cIeOvfmRUnTZMqtUJGqfRs0Fsl%2FkJ7RHsCkDVg5JmOdiybqrbozAU%2F3QuY69uBEvT47bgC0PAYyG%2FcPLBYDPhnfgtlrJxcSbQvDgbo%3D&ref=https%3A%2F%2Fbos21.xyz%2Fthe-kill-team%2F&res=default
+#EXTINF:-1 logo"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvhx0b1ig2B4tAUpqpD5ZBg3LBCgcHnymhqc9CzBIiUMo29yNb" group-title="VOD CAMPURAN",TERMINATOR: DARK FATE 2019 {Sub Indo}
+https://cdn.clonefile.icu/drive/index.php?id=grTJnhHhgS3f1fR2hIPJWgVvgKG22GiY4jufeWA0%2BhDK7y1WolgAJ580WlVjjldVHEMkIQdqImDhCSlOOzakbu%2ForqwJ6Qr1IpwtUvI6Al4cc4VGG8sKHZI1TcssVcH6Qhpouc8JMVHmUXZxgVcQ0zEEZobc1lzShS6SbUMHodeRZXCRxz24ev0Nc%2BZu626H2Hq1Qv2%2Bko6zJ9nM6CW9dz&ref=https%3A%2F%2Fbos21.xyz%2Fterminator-dark-fate%2F&res=default
+#EXTINF:-1 logo"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxP6xb-eVjDdwhluXBddSEnsUqeNsQIRpRLnJgqHeuiem729TG" group-title="VOD CAMPURAN",ROMANG 2019 {Sub Indo}
+https://cdn.apidev.icu/drive/index.php?id=zrWguvWmFy1ppwKO3pBoxAD3Dj1%2FzzadSh23Bnqey3XouLGI9PKMT5WGBosjgJtqYHeh%2BwmsOPL0wOdZYmyFwOzDUnuTeJwzNiyQPns6Xutd1UTK0%2BlFV5CdlbKam3vdPVOyoSA9tTJ5RQ9AghYmVuU0F2siBX4T%2Ff%2BuEHkOI3WeREf6CMjjY0ekDQB4X5XKs%3D&ref=https%3A%2F%2Fbos21.xyz%2Fromang%2F&res=default
+#EXTINF:-1 logo"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjS8xIwoQp4Aiz2ZDS8Bc29Sd_sWhleCaH3ACFR6EM80hgyiTh" group-title="VOD CAMPURAN",THE BAD GUYS: REIGN OF CHAOS 2019 {Sub Indo}
+https://cdn.clonefile.icu/drive/index.php?id=fRzgt541BX9Sk0wcv5iXVg8qmypL1zjYKvs3d7N7iEBxTdrjGBXf3Os8AcOCHRQnxfi%2F%2F%2Bjm4T0Yd8cvIQ9XaZw%2BG2vvY8i60P%2FhBMiaiguZg46q54cfXpFuBmG0WvIFI3Jm%2Frqp1X4uPZmEK1Lofrwxx2r5OKO714g93w7BCC%2BQEDM3CrL7KahfXCD7%2FNOXimEzaApw2IY4hLHy1bLQTV&ref=https%3A%2F%2Fbos21.xyz%2Fthe-bad-guys-reign-of-chaos%2F&res=default
+#EXTINF:-1 logo"https://i.jeded.com/i/ip-man-and-four-kings.166924.jpg" group-title="VOD CAMPURAN",IP MAN AND FOUR KINGS 2019 (Sub Indo)
+https://www.googleapis.com/drive/v3/files/1pzdFGlahzU_FIjhFC3RHClDyd-FKC-z0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8c5DFtamE_0gc4ujjoCcpH99pNOxF4HQ-KRO_l_-R1rh4JWJt" group-title="VOD CAMPURAN",ANGEL HAS FALLEN 2019 (Sub Indo)
+https://www.googleapis.com/drive/v3/files/1F25R3Hiyq6XptGfzTXPs8sx0z8shzCgn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo"https://dx35vtwkllhj9.cloudfront.net/transmissionfilms/danger-close-the-battle-of-long-tan/images/regions/au/onesheet.jpg" group-title="VOD CAMPURAN",DANGER CLOSE : THE BATTLE OF LONG TAN 2019 (Sub Indo)
+https://www.googleapis.com/drive/v3/files/1FUqQQDYL46LaL8czZ7VLoBTMaLvBsqyN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQshd_SwlIgAp5Wyz-FRrJyZwLqh50sMT1_5lLiO0Fh6eT2h_Pv" group-title="VOD CAMPURAN",READY OR NOT 2019 (Sub Indo)
+https://www.googleapis.com/drive/v3/files/1F_fFvFPPLySHaKT23wGCuHdE0Ery-tVv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS81s-sQ_fdOMeit48WyLF4LLwluEp-DlqYUNmLehh09c75Ht2p" group-title="VOD CAMPURAN",GEMINI MAN 2019 {Sub Indo}
+https://cdn.apidev.icu/drive/index.php?id=oBt5FyIeGh5V4zkXAutTOQA%2B1dTb%2BpUHKHTdBoREB0DjI00iXv25jWkLmKdOM90HuZMiWKpuYl2j2s90euKaOyo8yweqsCrC9%2BAQKw%2Bs55zi6javGxnCdsHReiwg4WfgErBg332Q5BquyzPwVfi4cF4mp9ECfsCMLimbPcFVJl56bokJifGrXfOSgJ1iYOdZc%3D&ref=https%3A%2F%2Fbos21.xyz%2Fgemini-man%2F&res=default
+#EXTINF:-1 logo"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQh9n56WJDkOQ80cjpfFm2TSUo75YVTeOID7d0yOX0prOMeQ4P" group-title="VOD CAMPURAN",Mythica: The Iron Crown (2019) Sub Indo
+https://cdn.apidev.icu/drive/index.php?id=lyvXsT4dhGjlQYEbFoNz6QjxbUv4%2BseZCbfAtBDByKAOyFArOyMJl1WmCPLPc4pKXdTTZdKYjGLeTThTO3gILCMm2Bif20koc%2FirupheZSC3KV%2F3b8cmIqZa%2FMawLnDxn0ah8D2Ud%2FGBO%2FIZkBnkcPuF0GOTG9XVnUn7QHoWkmRlytjw1aMZs0O9EDe7BXOzTxKD6TtfnzqbLxT7LVO89W&ref=https%3A%2F%2Fbos21.bid%2Fmythica-the-iron-crown%2F&res=default
+#EXTINF:-1 logo"https://upload.wikimedia.org/wikipedia/en/b/bd/Spider-Man_Far_From_Home_poster.jpg" group-title="VOD CAMPURAN",Spider-Man: Far from Home (2019) Sub Indo
+https://www.googleapis.com/drive/v3/files/1YZsGr5TP42m-qFHyEiDnybPDh6A1ffQD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-XhQf419kIF0Pz96A6APt1RdnqxgkUvo-nQV0d9knCMTeWkoJ" group-title="VOD CAMPURAN",AQUAMAN {Sub Indo}
+https://cdn.cloneapi.icu/drive/index.php?id=f2xMKgGyWw%2B99w1AH%2FnB7wdWJrp0JWnunJwKzadAsT7dFMyKU0mj6yZI5ZYVrdMSmR7Q0tC7FSnwLLL4kQicbGA%2FHnF3%2BEMf6sgbo8bWRFld8%2BLAhwkeSC92F7MSxucVkwtuqzPYUflAXyeBLk1R%2BgpGavA7FQKs330LMVzrcciwjBwTdRot59uh2WXukExIU%3D&ref=https%3A%2F%2Fbos21.bid%2Faquaman%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTiaZnJMuT6wI28t4yRE_rTyjKqAC3Lvg0eXF7WThdhivAf5fJQ" group-title="VOD CAMPURAN",VENOM 
+https://cdn.apidev.icu/drive/index.php?id=6enNzUc8IZpfvBxOHbjWigzGmohBAvI5u32aELfOwbDcRWmqu7kAxabqUk2aHOq9oZsUJ7UG2Ztr5d3fTdk1s4w293GXnPITRkrCYg2gIopeOhp1jrvr3NMKFJqERaGGCYCwam1wB%2B04l1NHmj5oN3pKC2tChel%2BkYS8K6pN8yoMkrVQdnp%2FAjjBwhuA46rts%3D&ref=https%3A%2F%2Fbos21.bid%2Fvenom%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTd63Ei2CAwQMv6Rouhe5q2IxO2sqiXaqHe5chHD5b541kp6NeT" group-title="VOD CAMPURAN",BUMBLEBEE {Sub Indo}
+https://cdn.clonefile.icu/drive/index.php?id=njIdTwPLly%2FGjaLEgTKTpgNbLgICupPymtQTSRq6%2BsVYlubYvHYenMAAC275He1CkLQuKTXpGeI7nFJ4HqHjTlskmu%2FJ61RbJJSICie%2F%2FX82KZ%2FCXeZ9gWUrhwBAG2MBPJkKjZp8qHusojUxAiUq%2FG2T5lMZYQgFukHWPlzIXik29rev1%2FBP53s9lEQMvUsYA%3D&ref=https%3A%2F%2Fbos21.bid%2Fbumblebee%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSked8c1p-P0N3MkBUbDVajRszVG-eGaaPkOyDL50TRPIgieoKi" group-title="VOD CAMPURAN",The NuN (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=9jLVWQOawPzGAAt93VLkaw1gD82fN%2B2GYqy11FOmyjj%2BgvOEFToA5HryytHXrtw%2B3bIuCuPWZmMppVAkAQT8sws0GGvS5Xjt09tW9SWq2QaCh8J1wrESk4xO0%2BJlx%2BPG6fa9pzPmtFmQAjzIc9qEq3uxpeSZ7D1g4vfzyxhVyTMVz9hxRXZcBv0AHi5IN08hs%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-nun%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRsUxj_INERTndxMz1lQ0YLAHJCeURWOB-sRi8JfJFitYc-WhuG" group-title="VOD CAMPURAN",The Cabin (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=6bc1Gb6f2UuTV9fT9cKn9w8TLNG2VkPUd87T8x4789huTDNa8LQ4OsmidV03Ay%2F08qI4GtAcliLuhnKavlqYn0NgZZKRjwNTwZRSUFYhZQlRFas9IVmw7Nd5FgzuWmvnCgeL7xzIvwx9PfRiaEtx9Xc6ox5Z%2Fk6NWyWEuqB19muFc7Dy1xuirUtlgW73lqANk%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-cabin%2F&res=default
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQT3T7TUbP1aMx7vV42d3101OyCgeQ2AW4g9S6Zx8JQSo6-zCoH" group-title="VOD CAMPURAN",Tumbbad (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=DOLi0B%2FzoQd50xfwtPdXPQNqO4qgzJpmCYFNzcnq0RtTeLauTaWVbSlOm6sCCvB9FwwOhTvLqBqMnJHLC44NPR%2FZDFSKVSjz7W0GaRxid9%2FLgbBs7uBaCA%2Buwi2%2Fbblhb%2Fs60O5wuE0oN%2ByZHW6T5YFOv%2BtM6jq6ounetjRlwI8UywpcPRAcRkvAhDSKHLIco%3D&ref=https%3A%2F%2Fbos21.bid%2Ftumbbad%2F&res=default
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXCKuZlnfLlFL9Fa00YA0hw1l_JaXX76vRE-XKBEWr93r-EpZS" group-title="VOD CAMPURAN",Scarecrow's Revenge (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=O1%2B4fmFLZJdiAtVhLn0rLgBuzsZJLYINP8SjXaGamR2TShBiwjiHf8uJ44s6Yh8B1IyIftca3y7DS%2FXVGfJmytlqDT7ioPKn9k9fzuMsGE3Wl%2FICHUreurw5hh1q5AkZFaff8ChsZ4alRObHIiYd5ZNGQPNPXcTG9t92MsqkF18RfX0FrymdYBI5e7PSpg%2Bf3M30tDCNkDcUPsjAvh4jEt&ref=https%3A%2F%2Fbos21.bid%2Fscarecrows-revenge%2F&res=default
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkkqX82e_M2m7XnLvsipvYkPeX_cnF_SKRaHdQ1IiLqUUoXApe" group-title="VOD CAMPURAN",The Wispering (Sub Indo) 
+https://cdn.clonefile.icu/drive/index.php?id=llg0kIAQCI8hxyhx9vq2sg1BywbpfC17Vg8yJPGwKBl35u9q3eiqDfqZ7pndSZ5W2UXFk6OqN3Vhg5rmEtHjTUP7gUwaPK%2Fg1Sx1zvp%2BkNtsHLeUkuisYKRl%2BLqx4NiJtD%2FoN72VssNkQZ22awKwVjKLizWAIIIKJXKnK5ZyjOvjwsmbVCSgstk2Upw1YhKDQ%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-whispering%2F&res=default
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDB6CU75s74x7NcimSJABi2ExSDMAkTxUbACEMJV3ob0YkoxHv" group-title="VOD CAMPURAN",THE NIGHT COMES FOR US {Sub Indo}
+https://cdn.clonefile.icu/drive/index.php?id=4ssY7pVus%2FZYkeuu0Qn1Ug7MlzglwxgrYtoWyJi5jM%2FcXQ0K3IBZx2uhttJoxNCXdeX4XvMNwp9b2Opn3tvBKMrkGrDbIDKVxTR8OGcuQZAmvD8g90o1n92YGNA9kPu0bIjeQchmgnyEyYw5A7pqS8L5s%2Fsi3O2y4DIjEmCl3ecsBYK%2BPf22xskH3UqJFtgdA%3D&ref=https%3A%2F%2Fbos21.bid%2Fas-night-comes%2F&res=default
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgctF7ACz4BCRa_r0DCGnsULvXI8FtTj9Ys1wjFjLMZi72h7rK" group-title="VOD FILM INDONESIA",MESSAGE MAN (2019)
+https://hls.kotaksilver.casa/564149/720_517/playlist.m3u8?r=720p
+#EXTINF:-1 logo="https://3.bp.blogspot.com/-XrQmjsWRxKs/XKi5jX2pd6I/AAAAAAAAAZI/Dfv5TLi9GCcLmkTFDrGIs_h3WLDvJI7zwCLcBGAs/s1600/valentine-indonesian-movie-poster.jpg" group-title="VOD FILM INDONESIA",Valentine (superhero indo)
+https://hls.kotaksilver.casa/586553/480_917/playlist.m3u8?r=480p
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzIv6rt4sLaFOrNf2MSZKCdOvSkgUJvKwKCwXYSP1v9cKDvS4-" group-title="VOD FILM INDONESIA",Yowis Ben 2 (2019)
+https://hls.kotaksilver.casa/579955/480_575/playlist.m3u8?r=480p
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpVTrGTQJPWa-uFJMW-b2SLLRlP2boWxjheh0TtF6UpGVH9B4K" group-title="VOD FILM INDONESIA",Dilan 1990 (2018)
+https://www.googleapis.com/drive/v3/files/1qY1dI0l2aNrrRC5enlfWsI27am6vdn9X?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1E5BdhpLcUzXUISPbUN9W-KZLRmHRuJGyWXjDUoxy0Lf9AXEm" group-title="VOD FILM INDONESIA",Dilan 1991 (2019)
+https://hls.kotaksilver.casa/577970/720_312/playlist.m3u8?r=720p
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2FPpSBrosMAYhLv4gqYe_xcKJdPHDEMFOTbnv5SegFG27Ikk1" group-title="VOD FILM INDONESIA",WIRO SABLENG 212 (2018)
+https://www.googleapis.com/drive/v3/files/1g6KLD7JT9e4fmJqyfTSSWiOFeWNn7W43?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSev9iR8PQA_mkBhyEWSIst0oXjPVEpSx3Yfd1bSd6eX-JZPA72" group-title="VOD FILM INDONESIA",Terlalu Tampan (2019)
+https://hls.kotaksilver.casa/572667/720_716/playlist.m3u8?r=720p
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQM-WGmp1kYKWXwVHBRr_UGIlbsGQKLS4QRLgRIiQDhgI3qb9y" group-title="VOD FILM INDONESIA",PSP: Gaya Mahasiswa (2019)
+https://hls.kotaksilver.casa/577713/720_768/playlist.m3u8?r=720p
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTY9QJacoNM2QnNyPeA_6oSvyt9LNGNh1wEhKPNWP3e0DpnYF6q" group-title="VOD FILM INDONESIA",Orang Kaya Baru (2019)
+https://hls.kotaksilver.casa/554733/720_161/playlist.m3u8?r=720p
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQWISfqO_qlxdEb1fqv8x3UP9mf9ue-h5MmAYYm6tBiRdjxdYcO" group-title="VOD FILM INDONESIA",REVENGE OF THE PONTIANAK (2019)
+https://www.googleapis.com/drive/v3/files/1qnAlHCqu8kqJXq_MsROiv4xdY5osVx6V?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDvj0zutWBLg5D-pE-XpDaCJ0Dcey-An_9d1Op6VZcLshghiQF" group-title="VOD FILM INDONESIA",Pocong The Origin (2019)
+https://hls.kotaksilver.casa/591415/720_512/playlist.m3u8?r=720p
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwflBIYXno_VWqdyEZVcha-e43EDLkIKDRl2CEoLat_683i5x3" group-title="VOD FILM INDONESIA",Sunyi (2019)
+https://hls.kotaksilver.casa/584134/720_465/playlist.m3u8?r=720p
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTliXIiX9tij8x6FPItJVb5ygOs6dJa-5iman6OPkuqhBI5VbTG" group-title="VOD FILM INDONESIA",Mati Anak (2019)
+https://hls.kotaksilver.casa/584131/720_665/playlist.m3u8?r=720p
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgEsOtkrhiCD01p2phNyb5050FeV1WWvj98fO0BgtHSla8Tfnr" group-title="VOD FILM INDONESIA",The Doll (2018) Sub indo
+https://cdn.apidev.icu/drive/index.php?id=7ZztOZg3nhfVUO7IJ7wv%2FATajoaq2Rja3RuXZ6tCne37cP0nbKrRw06qZLVUvpIsHBxKJdhu%2BAlhxUzffOct9jj3VG2nxdlc5RH94Ftfh9nt5EtqQca6D2F4aj5stvTmoqnPsBAkvGGGTAx0zxC2QvNbjIt%2BQrZqQ7bGcp2LTowXSOPKswtF6u1HQEIfsPZno%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-doll-1%2F&res=default
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BMGFhZjY1YWItNjdiOC00ZDFmLWJlNGYtYjU4NDdiYTA1YTMyXkEyXkFqcGdeQXVyMzYzOTYxNzM@._V1_UY1200_CR135,0,630,1200_AL_.jpg" group-title="VOD FILM INDONESIA",The Doll 2 (2019)
+https://cdn.apidev.icu/drive/index.php?id=5OMEtKxtQJ8ux9aJpERMOwQ7paIYjC8bRwrjzFm0yECXbv1IgEI2hc%2BlHHc6yIP9gVKvJuYs%2Fbv0bKid%2F5en9DP7pX8rUKKnEv%2BDOscJ1wy98Jo58rG7G2QJJoHllCGK%2FUiojLPzqvCiL56527pvzTk6TItGRi4J8My4ztWMEc2ek%2B%2FVvXm1bPB8rS2pq192c%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-doll-2%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWzuzuaEL4YvXTsmnqoRSr1L4ptf_UmZY92syHVFmIoVSUUVsb" group-title="VOD FILM INDONESIA",Perjanjian Dengan Iblis (2019) 
+https://cdn.apidev.icu/drive/index.php?id=vrcmevtgIywLTqsvNFZRwwWZYIP%2Frx0iwo%2F%2Fu%2BEK5Aygy%2FuGCueTc69aGP5hYLKLP%2FOMf6CqKcX40iUQS%2BMdbMrTvF%2BNMM395CJ9yeFObzl16GZbxXdSTr40glDKtADF0fsuJo%2Bf0lun0Y%2FmhClUmKvLAmVhkiXAVjhZt4tArBJQ0mGcLAhtliXCPWN8gMXz1CMGyTgdayspT90OvjEFMp&ref=https%3A%2F%2Fbos21.bid%2Fperjanjian-dengan-iblis%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwnDBuBAy951n9ml_TARUhvw1A5Bjbz-_YqxEDDQRwaLRNaLw-" group-title="VOD FILM INDONESIA",TABU : MENGUSIK GERBANG IBLIS (2019)
+https://cdn.apidev.icu/drive/index.php?id=Aoh6pdASNtWPRwx4tbR%2FTw2e4kOdabQbvAxIGJAIFWERe4aNWPzCtjm6b9bDGwu%2F8b44DFstxT4Dq1itQQvWOscY6%2FWkGk8WUQeGlsUpB1ib0CX2eCJEr619c6mshkJv51OSaK0zygq3Gl%2FVSgT0UmZRctq0pbNhigQUjI59CtJP5BdvczIDNKTcnu1FHnzro9QpzvIMZypZ70c39Ar5Nh&ref=https%3A%2F%2Fbos21.bid%2Ftabu-mengusik-gerbang-iblis%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRD8Vh9TsCVnrJIMFmDeXtD-_cxOGpLGjFsVxhuvl3SEuYoI0GO" group-title="VOD FILM INDONESIA",Dreadout (2019)
+https://cdn.clonefile.icu/drive/index.php?id=PNw1sQLyfOUCClVQe6BNbQfvuWQWhzq4Vs24%2FZH2UXT%2Bnh46ODR0zx7yo2Fgyog0%2Fa5KCJafCOqynrbF3g4ESTkgGjmAHE7woZ3NIt43EBQzciaQsJHqHUvtr8nGB6sPn2bjlGAD0PN5abCy7xa2%2Bjtbi3372A%2BGvNHCJs3CTPzciJt4mLyk8jt%2BgmrRfxp1SaGc12%2Bpt4vLODuj1s4XWn&ref=https%3A%2F%2Fwww.duniafilm21.fun%2Fdreadout-2019%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwqYrV8hzq06myLVyENAiAhkk4hlGimR8A5gm6y3mylenmvBtp" group-title="VOD FILM INDONESIA",SATU SURO
+https://cdn.apidev.icu/drive/index.php?id=8gAu2PwGQwNPo5oy4U51XQ5VGhTahPZCxCiEnFu4M1E6saqJkny%2F4yeNeqRk7yL0ZkGWQ%2F6nVHEF21XSR8LSPiJ1gCneJPuK8X5iQXC0TrDwrJ1eGvGZe4WIKYQdhNMmsslixb3YOB%2FDOwaNgtTiW%2BP%2FBLHB%2FcJqI2Z3JlB5zgS5FbqhomMYdrqF%2BqB3CMGfY%3D&ref=https%3A%2F%2Fbos21.bid%2Fsatu-suro%2F&res=default
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQP-_3fCkmFfaL_lhofuhlRrLi8tRG34J8Nc8Ej4AcG41GIakoa" group-title="VOD FILM INDONESIA",Suzanna: Bernafas Dalam Kubur 
+https://cdn.cloneapi.icu/drive/index.php?id=jCNMXUqGI5sc7uBEeXHV8wdZluqzTQGNFsydbyOoHysvMdL1uMg4buFb1BZApESg%2Bh4oL%2BKOPCCd800YyDCi5dWfOJzyVKYpIkXGxOfhlJmLV%2FjFyZYS%2BlULO3HgKlj%2FJBQIIzEzW3IVCBrcSm%2FDVaz5vf7925ZZ%2BDZXrT3BrHo%2B0J7dO7jijCTEAvfWhbIzU4QD3bE%2FG1iVfGtbPB6TyR&ref=https%3A%2F%2Fbos21.bid%2Fsuzzanna-bernapas-dalam-kubur%2F&res=default
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNEDJvc7Sp-DakgYdDprl7YyeZWWBQ3LnuusxkfozRxgGUlZho" group-title="VOD FILM INDONESIA",Tusuk Jelangkung
+https://cdn.apidev.icu/drive/index.php?id=PbYxpduDge%2BTF4V2h%2F3l%2BQ8eyoTRNg8U1rHySiyTvO7ivrS1X4EJlnX75guPZSPxbhUlNK4%2Bef%2FMJ3Z8wx2w5IDYLB6jWGOyeS3MdoSXBG%2BwTBVe3usVgCeT9PoahDDslm8TzOyaWdnV6zxLsfv%2Fl0HpJ8vhR4Y3uhyWgPMtV0KWNh1nwKudorCSGfh8xUh6rGPupb8GQMnB4KJmKQnHgT&ref=https%3A%2F%2Fbos21.bid%2Ftusuk-jelangkung%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-Ygp9ZGQgR_2ZKJavCBz67_AB1H0yNOL-AupI-muYDj-wWAPY" group-title="VOD FILM INDONESIA",Kalung Jelangkung
+https://cdn.clonefile.icu/drive/index.php?id=ENZ86kFYtD42CeCfOr%2BcSgpRONv9iWz2Ez7jzVNxePKGo%2BeNVGNuO0P1D%2BmhwsTf37E4WFQwYvMZpak7iGFoYs6ujw2aXQMhTMptrDOWkwhf%2FHSo0x0FVOhzf4J1%2FODQK5QZhbq2z%2BwQkrIVV2GZUY45WX%2F8kA8YIUcUfVcdwUR1aGPO8x49g0lDUC9vRuigbbqRxGmac8XUuZcGVApP3n&ref=https%3A%2F%2Fbos21.bid%2Fkalung-jelangkung%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSca0uU4_LfT51TLsKGMcPQHpEfPF0ox8neALWfxxRehUoFHvJc" group-title="VOD FILM INDONESIA",MATA BATIN 2 (2019)
+https://cdn.cloneapi.icu/drive/index.php?id=WEFxKcEL4fg%2BbUAFtOwXDg2rgOa9jxXLgYvPRuIuRaumeDZJOxZRkiFB4RPLpMXZrAsuvsN13xwv4kH%2Be34UiabYNRueZaULKRWEazun4RPBLEnYYBxScTsqEa1RHCYPhO%2Bofu%2BHvu%2FTst4A%2FuxKrvKajjca2bP9ItoI15ii6c8Iwj%2Bozm2lj0sr48v2C5juI%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-3rd-eye-2%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS95EU5ZTTT47hciyLAnx0FiVBX8XYnvFjrJIjNv8tO1JHgsSZR" group-title="VOD FILM INDONESIA",DANUR
+https://www.googleapis.com/drive/v3/files/1GuT9dgin_72vuRxSMmNsKvwwTyVyxxlD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRrIULJJ5YqcSUbAaLIu3n-dPhrgz8uIWZW20hiL7yztw9v8yk4" group-title="VOD FILM INDONESIA",DANUR 2
+https://cdn.apidev.icu/drive/index.php?id=ZeCY2fIn9COiecFNbPy%2BlAw%2BrhP0EgIhhOmXS6W8pUlicAGnOnEAEzHePpSEBnEkS%2B05C4o9zkeQg4FmhlutYd1j0bhFV0XFVGHBXYJXWPeKuAZf0NdqFJ0slErgadJFCK5tdvgdj56vmS69iwKdo9uvSh2Hgrnek5qS8%2FW%2Be8HP5%2BI7m9f9su85oWu3Q3n%2BQ%3D&ref=https%3A%2F%2Fbos21.bid%2Fdanur-2-maddah%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJYutESDv0weAH6f5m1uyGnoaWEREWAHLisQJsP7dNXqpAcyGU" group-title="VOD FILM INDONESIA",PENGABDI SETAN
+https://www.googleapis.com/drive/v3/files/1holomG35K2jL2c9ZRCIB7IBCjCLgfnyF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAKo-CLMsKYEY-pE8W5sdPDHmu5th5fgHnLJGL4rXJS1Bao9jC" group-title="VOD FILM INDONESIA",MUNAFIK {Sub Indo}
+https://cdn.apidev.icu/drive/index.php?id=tUO87cKoBABkZgpakP7W%2BgQsQKer92Sm%2FRdxQ2dwvOH78CNfLbIYQZ7yyya69Dixbo6rzu1tslwkq4JJ35aF5CsI2%2FLsd0zPL8%2FF6kDGaeFNyUWReG1P0JZAM4rhrOBTIy8K1S%2BRkCwWV8zCK%2FdCGmI59IPRwXSwjOKf6cjY8ljo%2BL0arIQeANeY2%2B3OIq1RA%3D&ref=https%3A%2F%2Fbos21.bid%2Fmunafik%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTItTl-BhkLE8N8L3mK-koxzUcE004HpAxyp1WBSl-r0Hxw-drj" group-title="VOD FILM INDONESIA",Ayat Ayat Cinta
+https://www.googleapis.com/drive/v3/files/1nndae8H9aOzKItZboDdeGWusXlhVBlZ4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpUZCIuocujr9Ltv-C-1UgP950JfJ_EM5PSuTIn0HkzzMPJEHg" group-title="VOD FILM INDONESIA",Ayat Ayat Cinta 2
+https://www.googleapis.com/drive/v3/files/1nndae8H9aOzKItZboDdeGWusXlhVBlZ4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6Hb8abuuGb0A9MlZbKlswmteWwEg4amIA56i41Su148xf427i" group-title="VOD FILM INDONESIA",Si Doel The Movie
+https://cdn.clonefile.icu/drive/index.php?id=l52x4%2FdE70ZQAfzu%2BEykDA7k3Xc%2BWG148%2FvZJo2xD9OyWEWdhzSHVb4oI6BcD%2FsISBDKuz7Ey2iIaFzFIeGfHiMo863AQyf%2BU9kziSp5L%2Bk1%2FoEvCKb6LUsjBkGur93SWApcNY3fFudj9EdXdemRu9oluci27iQEPbW2RZzAcLfuCweOB%2Betm8G7uJ4okdLc4gooi5NF5ywgu%2FeOaO7jkQ&ref=https%3A%2F%2Fbos21.bid%2Fsi-doel-the-movie%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGv33aquFESk8QJJUN3kC7uCrnvQR4ww7QRSkKV2rnHgYtH4NT" group-title="VOD FILM INDONESIA",Galih & Ratna
+https://cdn.clonefile.icu/drive/index.php?id=2IKzfUfPWhpWtdiR2O8hHwhyCGfe5LaWDF7xkPUTkRX8diBNxNg8V4LR9Z1QDxLisQ9FUtdebB0aSIaK5MiiA2%2BG5FmJK3Rui2TutfP6hhbN8NXRvGCciquh7GAMg9m9Q73Op0jt%2Fh%2B7OYsf3cRPHyYROaU3MivJsIla52LsqfAAZ%2BYSBqzSdHhNleb3YEHPM%3D&ref=https%3A%2F%2Fbos21.bid%2Fgalih-ratna%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTN7Qimb-4Gaxufxdoe4dsy7Pf3Buu5z6erKfcXP3wWcqII5dg8" group-title="VOD FILM INDONESIA",Soekarno: Indonesia Merdeka
+https://cdn.clonefile.icu/drive/index.php?id=84nd8Mx3NJYejjUvuIDa%2FQUpAC9xCyyUbbG0yusyfQ0o6KBE%2BIFKmUYsNxb9AB9dDAOrHSn19CMXFYSByDHDQQR2giLcXAHcrEBxHaR12yP8kO%2FWQ7PlTGnwdepQCMZ%2BkVxW61BuBr8Z75K5i1wnt3HepkrNtZ3kAR9rAhulyA6sT%2BuNmRh%2F7PHtx5qNNvpNEoPq%2Bs68ocBThkUkvlqGI0&ref=https%3A%2F%2Fbos21.bid%2Fsoekarno-indonesia-merdeka%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXbOKzrhyjvxCjlAm7aHnA2RmsPFNwnEpODdxIEVfQPYurzG-p" group-title="VOD FILM INDONESIA",Habibie & Ainun
+https://cdn.cloneapi.icu/drive/index.php?id=zS0GFxoJ%2FmkCjFjD73MyTAXyBOmiUjwe4Jdo0gbkHsaSo32T1hpDxHhtLuJLndiQwMLWsyzb6tQJYxccapFee5DWaC6hWg6k0DAjpNjNvrv3HBjAjWfGTRx82fWehG7nVTqyl0CEcvM1Y0JB3nIN7B%2FVej5T5%2FFoSbc9NdWVBkS%2FbNXujPLQFW8dIn2BgjYvI%3D&ref=https%3A%2F%2Fbos21.bid%2Fhabibie-ainun%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXgLne-3lvWdkg44TG6Xm46HvQLl9Q6SBZa8O5lalIB-47g_oa" group-title="VOD FILM INDONESIA",The Way I Love U [2019]
+https://cdn.clonefile.icu/drive/index.php?id=ZB3I0WWS%2FWKXIZGFkaJvjAVxrNSagp6veGAXH0yfpim9M12PxOy0yza2%2B9mRJBkfSzoPsfyRFgzoikGGt1130H%2FemYri%2BuJLVnsZ7JwuQLoN%2BtQflw7A1QcFvBfihhSCpz2A394DoikF2p9dRBKzMZpxOoueIS%2BMd5lTcovz6TLXfVev12%2FmeBfTq9AJJDYJxNQufL3%2FvTItViaS69WhTu&ref=https%3A%2F%2Fbos21.bid%2Fthe-way-i-love-you%2F&res=default
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7EH5uCrA6GjgqxKTgOC9VeUunJQsKgjm8dLGcUqmLJXBY2Zk8" group-title="VOD FILM INDONESIA",The Gift
+https://cdn.clonefile.icu/drive/index.php?id=UEmu1OutOsIc0IK45NGDywZ5oc%2FQekhQZhxNIFFOeQ3YZs0kHX0UhBQntdjN0RLg8ycw9LGUxYmBiABmT0Gp%2Fzu%2BxUVD8Pv%2Fd0jl6jG%2FW2%2B4%2Fj%2FWYfaLBCKI%2FJj5xcSNq5lHM4mjsVcrYcrad8Hwq9EITu0%2FjojKWwum8RklKwflUnXfxweVmudlo3D40xSN0%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-gift-2%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbgPjf0VIZo9xaqJzdaOdLWgom4aD0fIwHb9Lhb4_IC-Mx_F5t" group-title="VOD FILM INDONESIA",Buka'an 8
+https://gdrivecdn.us/drive/index.php?id=yk6mVm6vOPbSdXkc9Xp9aQrmMg9OGRIiOK6R7LGUjJkSG27AMb%2BXVO5ogHHOH9miEa9%2Bcr55SyFl0pJ31wibJn3HC2M06imC7MBh4p9VYaOU%2FTEDLzjo3Prbt%2BcQE3pkar1WEtacStoDkPK1e3e887zUwKZTADVwMN1Z4sxI8Iy%2Bv%2BR7R772Z3p20dD5lBcPM%3D&ref=https%3A%2F%2Fbos21.bid%2Fbukaan-8%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYo556l6CDZkMG2XL5EvzltTk-FRkl5HGhfTaNlLiWUb74hPal" group-title="VOD FILM INDONESIA",Test Pack
+https://cdn.clonefile.icu/drive/index.php?id=cSZon4OcDGC3K4yDyOiP4ggB37NsT5aNxuauYtWtE53hDCXJAwNNaWl49W8fNRUiNJfDhf6aELO7aGvEAMfrLd8xeuxZbq8%2FWqciuDCxg0X2HC7Afw1uyDiBoa2%2BY18Hhl0WfMxhy9%2FNhgdUOKt%2BDJa%2BxBzue3Q4cDqc72pW4fBsnGECIa%2FZhjMgHEJboFNlQ%3D&ref=https%3A%2F%2Fbos21.bid%2Ftest-pack%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_O12zJOSx4hsrsnoUeLBuJdoBLDFRzUpCroP1emcbbh_fa7P4" group-title="VOD FILM INDONESIA",Perfeck Dream
+https://cdn.apidev.icu/drive/index.php?id=7%2BXXT%2BbNjyHb4141IdqgmwcN5ar4WxH%2BWGzJ7nHRvn%2F%2BviQftP105BSPWjP9mVe1V%2BZ4uUgUbRiMRKKLK00cUjr4oMgPXo4b7%2BNJh%2F6sK%2FCpSB2pzAh1DfPkVE3MF4htI3SI7qJyJACeOuX367hNYtFONtML6pQxQPMTMYgkilGIsghwNyv32Urf9s3GSW0YA%3D&ref=https%3A%2F%2Fbos21.bid%2Fperfect-dream%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRyVnFkhIU0CNPxPznEOFlnObJMAXGxSaqQucHNvlsN9ic_7muF" group-title="VOD FILM INDONESIA",Promise
+https://cdn.clonefile.icu/drive/index.php?id=AoOGDt%2FolgPrnshThqDzyAWbAuq%2BuZxFiXBpq7jSStptX1LSDBvfOk0HMwP6NlECa9Bf4YhyurWCWFBeZVIgtjvXbEyq1LWrxoIEky9bLIrteNkBFSFAIpMH1vR8UGP3fPHb2ZOSMuhNHVOUDmtJ1oJmtQQruhpj0C9j8%2BKsvoaqSgG5nYJejTqi7Pt%2BZSOC8%3D&ref=https%3A%2F%2Fbos21.bid%2Fpromise%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBKK30nWzsiJ0G76NhdOefgvkUB0bBNvchTxKPjrbMlcFQvSVb" group-title="VOD FILM INDONESIA",Love and Faith
+https://cdn.clonefile.icu/drive/index.php?id=j5i9XDTrVuA7TjKnuITojQArZZjLE9yOOOgPL4ic4tkA2pr3vlrA5M%2BV6d5KmvoryUsdncTEoFXa8RhdQvyf6duCo3JNYBPlI2k%2BVJc93AHV6tARHxVc0nu3aL%2B4hEeYXEWSjYWDpVTeTlXFeTqhxzvtwj1kGikkd%2B0mFdlvWT7SH4ySVpqNVPGNJEZRHVveU%3D&ref=https%3A%2F%2Fbos21.bid%2Flove-and-faith%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzpOnFVG-knPp4YkCqk0KFYD19lNPUB0WaORyZSrvXQz4DixPS" group-title="VOD FILM INDONESIA", KAMPUNG ZOMBIE
+https://cdn.clonefile.icu/drive/index.php?id=sZI5Pan8SpEeGapmpHJ2Sgt4M6baDd%2BgREbfGAZK7yL7m%2B1RgftibLVF4OW7G9sAg7KDup04Uyt1Om178KuVBi7VX8SxVe7loMKj1%2FdhSvmvWlHpa5tesVBTuLyUOWri1jHKePCgYfAvm1m%2BUxE82Y5y3G0ijkvxgvgj1qm8yO2CebOXEkwetZmqvSoaGaCBg%3D&ref=https%3A%2F%2Fbos21.bid%2Fkampung-zombie%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTL7OzwJFCzaPcHh2mjyuqFkh6HSESc6e4jTyXTdB79Xy2BmWnd" group-title="VOD FILM INDONESIA",Mengejar Malam Pertama
+https://cdn.cloneapi.icu/drive/index.php?id=SrXU3Z8Tw1NG6iT3O712wAaW3Bkcky50MMswryZ9i1CNVhvDKBG5W93yXWZcEbM0zRj%2BT0EUMWfVLN7mPr0dsNEV%2FdAbqBtyPJXxTxmDgBqoKgYqj05LUBNthfAFYcF%2BAD2kIGDlQ%2FJ4r7w6Er3wmIQSsW3FWJ%2BWweAZsYyja5VYQcPMiomdxUz2wS4Ri2b5h8clW%2Bevf50WTL0Pu1ccXm&ref=https%3A%2F%2Fbos21.bid%2Fmengejar-malam-pertama%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEvpDQV-0yKdtzKb0hNL79hXKvEveL9vpO5P6vUL2RjNXk7L64" group-title="VOD FILM INDONESIA",Toba Dream
+https://cdn.clonefile.icu/drive/index.php?id=gMho670UpuaYN7K48Q7xtQku27loJljge45%2FmUeEh2HSYlq9BCegJ4dTFS4z1eGa%2Fg9Z8FK5sdIEvmAPETblWS%2FueYdb%2FbooMVyAWrmuOm9mCico5DWWDL%2BuVrSOYSXpzu%2BuiYuDoCRn5FyAvB59j%2BKIdoUTVRTt25B5o5NSaqCIoemZGlVTvY6dpfoqNzRGs%3D&ref=https%3A%2F%2Fbos21.bid%2Ftoba-dreams%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThRFgTwCjbPNlyV8o97Oxng6gpxUATvhYR-9t8VWQKuTFHx52g" group-title="VOD FILM INDONESIA",SITI 
+https://cdn.cloneapi.icu/drive/index.php?id=yPw4AHJHhLk2zkmZs8dBTQfKFn4ROHVwbSZBdKRY2Uy28UP9YbRQmVkQcmYzzawwiiGacLWWO39SI4Y9cBD9ivmBAIXhmwnGp680%2FBUCUKVckfM9m4o9nXwnDMuzJkwUqbhDkksifdTDVyMWnJliGtwVVl%2BUf9IdLILLY8N2caDs2ETbVX8QTJ7h4WqJFdeeA%3D&ref=https%3A%2F%2Fbos21.bid%2Fsiti%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRhaMsFQQB4MFVSjPbHf8b7ftw3skCTkjfvLu4Hu3lNa0lF2hS9" group-title="VOD FILM INDONESIA",Remember When
+https://cdn.apidev.icu/drive/index.php?id=KBe1oJCq7x1%2BjA9xBxkz5Q9%2BT%2F%2FMjpR%2FRYWvbTH6cn5u7pn9tmEjg47%2FJt0BVOgqlBKOCu%2BTpNQVELrvLBYZ%2FrQ%2F1iaoamrC2t0dFZhusm%2B9InisESEVrduEJxqzpRejB5tyffmxAiBIqWc56uDDCVm8Vc8MwJ%2FvOYj2FnrNVgX1WjStp%2F2zeJaL8mgFeYzjQ%3D&ref=https%3A%2F%2Fbos21.bid%2Fremember-when%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS8ctjdT5XQHpowwIRmpWoqCtnu6Yb51fAWyEhvKOHTKT06BeGL" group-title="VOD FILM INDONESIA",3600 Detik
+https://cdn.cloneapi.icu/drive/index.php?id=jGYgd4L20F0%2BhBa7WaTQSgxh%2F44TSe2fCBjYXUgWBFJqMBPjO3r252SY4STa51ERjwvEkGKd9%2FcclgOmB5wWoSass1rV7T%2Fa5BBt67WFs4wYqGufOeuOpTn6zg2Iop6INmdz6HOTnHFLUqNthpaVFKkldBNtxSPanOZ3Ul2tysjLMMAolssQ0IimfY%2FNqtX%2BQ%3D&ref=https%3A%2F%2Fbos21.bid%2F3600-detik%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTU_IybRV_Yr-hF1LhihkYpXw9PytxRAL0vPc0e_-7SxwQ48Hry" group-title="VOD FILM INDONESIA",Critical Eleven
+https://cdn.clonefile.icu/drive/index.php?id=9kSxhOzA%2BtMNvGcsSRsJDg8icJafTnXlQxY%2F2udkAIOme7j9cV8%2F8GSNTFn5%2FDGDE44dzK7Ii8gs2DnTg37GtsXGNhnT3G8XVMR4nNyUvibfemNdKm1e6L3gv%2B5V%2B2POjJ14mopAPItuHuGVBecMBsP1yJXov8FBY6Wa686H%2BbosRSbiQrblN0zn3eiLJkGGg%3D&ref=https%3A%2F%2Fbos21.bid%2Fcritical-eleven%2F&res=default
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMDuiEMrMdrT57XF9Mr5k_Dni7sSiICezfWHObPx2dkyYxtRer" group-title="VOD FILM INDONESIA", Keluarga Cemara (2019)
+https://cdn.clonefile.icu/drive/index.php?id=9xc7bdDFdONoP001bBfY2wm23137aX2j2D5PXzEEMqgQ4cl9fb2j9WOsFIba1NfT9PfGH%2BmswFK5XY7%2F1CKXhjWmrb9nXkLSUXrjBh1FdSljgpNhGFSvgPq0Oy8KjovKAMgZuqT77b8W6XNRIEaM1mpGciwb1jbRUbOc7Jdm7hs%2FTLFhkikg9b8crXaw1FpdU%3D&ref=https%3A%2F%2Fbos21.bid%2Fkeluarga-cemara%2F&res=default
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRx4_THUmyuz0c25QpuUHd8unBWpS_uH8UTTKVYJhNh-FOgBnxP" group-title="VOD FILM INDONESIA", MEET ME AFTER SUNSET 2018
+https://cdn.cloneapi.icu/drive/index.php?id=jMJX7%2BOLi7CreXqC3PNotA09LyVhOsNZDS8Rvkr5zxpOrwAgrUufB0tvXSFgdHsPxT3l1nIblmXitLBq18GMzmLEDTFdMGgS3E5GZNgqtSKVgK38RpYmqBsyC1CHZHY58TdS0otafaxOGBW9kg26Jdb%2Fo5PTOhQfszKobrGCSaxrVbhP3%2FB8RG9KJ3pVBHICd0ASMIMMorSnxYc0oBOEKT&ref=https%3A%2F%2Fbos21.xyz%2Fmeet-me-after-sunset%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTiXYExF0bbN8XHfMyxYw7BzUGwB1tM4JuEcGlzjz9fdM6HSDZw" group-title="VOD FILM INDONESIA",BAYI GAIB 2018
+https://cdn.cloneapi.icu/drive/index.php?id=yeCjL3wPG7x7DxrHuoku2wIwULNNQjggzb%2FZ7SFH6ghs9yXCp8agfGXZbzsJIyr%2BpFqjOpo8mCvC%2BKPuivWibXG7C2DIP%2Bta9nq2wGqJljzqKwdv%2Fb3Gac5b3tCxCFTYj22Q5aDOsfc6GidYSrvfxN7CN1VLgpkY0qsFd%2BhroGP2NlIMFDva1wlY3KeFuYNhc%3D&ref=https%3A%2F%2Fbos21.xyz%2Fbayi-gaib%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyA7Z5Br575_kEpFVXzmw73XPoDjgmE-Rf7_SrPDrZH01Lg4Sv" group-title="VOD FILM INDONESIA",NINI THOWOK 2018 
+https://cdn.clonefile.icu/drive/index.php?id=FmT1tgmmkBV7uxE%2BOHVOkwKfNM%2BhZtbMVbe0CGNk4Pdz5JUPBwir6R4ADMi9R8DyrRu%2F0IWAuBv8HAEsiB8kVLED5433JGHx%2Fv4%2Fq4JGpkLHNNCkzcM9BPA8M0XVdV495Gw3xD7VQL9tSvsRGHThxqKAMDFLDGLDAOmbGWeOF3c2k4EG980koS%2BuLN0%2FhbBKM%3D&ref=https%3A%2F%2Fbos21.xyz%2Fnini-thowok%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHdkZXXaY7mFlOfQ8rY_wXCX4wRZI0sKwkf3WfwwqRmZcucA3D" group-title="VOD FILM INDONESIA",THE SECRET: SUSTER NGESOT URBAN LEGEND 2018 
+https://cdn.apidev.icu/drive/index.php?id=s95pBe957WaXLktF3%2Fox3AwHxqkDxOqRHNB2KTaG5hOg2KTFHX9kFqJh4Wa3dXJUQUrHLEEkjj7Uc6g8XDaEE8thqqsvn4bWAKsFoGErTCehOlFeJ4psw7kPvJNM%2BEC%2Fw7EO%2F8qpag2EV4c4tM70LiF9L7ELH9uZo64xOwB3c0LhoI23To208ktUxqRHHVxFR7jCE%2FUH3qvdB9qFjR%2B1yA%2Fz4du61LS%2FdSOSKI9uFB4A%3D%3D&ref=https%3A%2F%2Fbos21.xyz%2Fthe-secret-suster-ngesot-urban-legend%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRP-GkZ-tUp7ZH9ulk2Igk4_mbTxrMPPVqy4ttdHQwQbJQcxZ65" group-title="VOD FILM INDONESIA",KEMBANG KANTIL 2018
+https://cdn.clonefile.icu/drive/index.php?id=zOv4pH0QzbQhtlxYquipHwjFKwKqMkJvnrbIw%2BRm9nvb67XuxqBfiiaMp0sZQ5chvpYdVdGiBEPILblJgHgir1PHbpQu6Fux2%2BihPNz6asaCzm76DmxtgpP%2Bkbgf%2BF98YwBh3uLbrgE4fFU9CNtXnSFJhRflJ%2BJHzjdR9fQyljLCRvcBwXAOEt2bxQz3fM9W0%3D&ref=https%3A%2F%2Fbos21.xyz%2Fkembang-kantil%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUZaLiY9xB-ufMvSHjs8hBGkwWqWXjTR1m5iR8WZGSp6qooRc1" group-title="VOD FILM INDONESIA",ARINI 2018
+https://cdn.apidev.icu/drive/index.php?id=UrVtza%2BRZLYx4UvrTarurAntuFweKV4sSLsvNLg5i1kvN28mDnwetlNF%2B4%2BXQ8D8iDv%2FQ9UBsOd8xmIcfX%2Fxyyzg8J2GiOTx%2FtzQyMPs6ry4np7YHhdleJ5ZwP%2B7wYdf%2BA3%2FokVmkl9cGOjSEdAbUW61Hw84nYAFG6%2BAh9ogwj3bJnHZC7zPl52RgnIcZDDAo%3D&ref=https%3A%2F%2Fbos21.xyz%2Farini%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSR_52QLAfuSV_vmwvRxJ2gDquuOeGg-emKUVZkO2hT0zcb5_IB" group-title="VOD FILM INDONESIA",ANANTA 2018
+https://cdn.cloneapi.icu/drive/index.php?id=tbU3PeWNSHqcI6s19QBB0Q2EzTMTH%2FMcfmYT3Se2XZE9UyOT7JKpqdIiGJ01eCRXAHY43rrYccU4E5uulTNt0xAsVEQmv0Q6Gcnk6skpwqURYGpi1lUNA8TzJFIwDhKMR2E%2FRr90%2F7vpIGpluc4T0KkIlrD3nM5L0CH16Py8F1S%2FrkwUJEXHTJQdEpgrSaV2Y%3D&ref=https%3A%2F%2Fbos21.xyz%2Fananta%2F&res=default
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Skyscraper_%282018%29_film_poster.png" group-title="VOD CAMPURAN",SKYSCRAPER {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1YdrT-WhduFYnK0qtm_7BJ1pwU3MQs4uM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpVd9scm84XWyDkHM2dlahM-zxdLs0D9D95A0HpvX3Y_0Z8NP7" group-title="VOD CAMPURAN",THE CAR ROAD TO REVENGE {Sub Indo}
+https://cdn.clonefile.icu/drive/index.php?id=8bY55hcAsfPjEBMRluOCnABT8MgMek%2FZRHBVyf%2BGhkBN%2Ff5KE9tGvvSQEs%2FK8M9xjWNvt%2F7mO0%2FpzUFOMi5%2BSV3eHZ1UdE8yO%2FzpOqIVtz2BmvZGl4E60LS7sr82r08d45DtWVnXHhO2lXlVfR6rjuezQ7K85Aa44HQCADdjSi3zVZCZKWkLWvuESE8yxkRDMaOwQ6Ed5XDBgfsHqOWUIU&ref=https%3A%2F%2Fbos21.bid%2Fthe-car-road-to-revenge%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSqvc245HiADjrmhc6lsvv-jKACRJjxf8MN-pVTvbVCtHTpx4fa" group-title="VOD CAMPURAN",JUMANJI: WELCOME TO THE JUNGLE {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1ycWd64JYv_P93jprbTZAJj4twRWJ9WiO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTETEu8yLlKa_aBiqdQjNpr2lyxvlkfL1RSyfZH0JpiuTL7Yto4" group-title="VOD CAMPURAN",TOMB RAIDER (2018) {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1Blv4t2kZFYP2R1qNnL-I7ISEbcGlvo0U?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHiJKvhW475fcOrdTpi0GFPeri06kyxau2f97zZAB7KTnJh8dP" group-title="VOD CAMPURAN",THE LEGEND OF SECRET PASS (2019) {Sub Indo}
+https://id.terafile.net/the-legend-of-secret-pass2019-360p.mp4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHm8rkApfzkjxFupeU8KXO7UctlaI_2eHdMsdBwXP47FRUzEKa" group-title="VOD CAMPURAN",MULE (2019) {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1YsXH2V6TbScWzERFrACm9lTvBLuLobcs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgNZz3lx3_gb7VGABWqao-hsR0s1SJCnZ0y25c0-3Jim2N3IEm" group-title="VOD CAMPURAN",COLD PURSUIT (2019) {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1oSWO6PTNM1nb6TnS6PDXj0C0JdNJqRMG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdt4H1K5i-0IdpRzGMA3_poCAvV2y4bRdDfNqRYD6ZJLG8-4oJ" group-title="VOD CAMPURAN",AVENGERS: ENDGAMES HD (2019) {Sub Indo}
+https://www.googleapis.com/drive/v3/files/18_FetnajYa5qNM2eRkqlVFGbZRtEjBfb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4m2V5gDv7A7hFo9F1diuAUB6RZnHc0QrW5JsmitjnOY8-zIPZ" group-title="VOD CAMPURAN", INSIDIOUS: THE LAST KEY (2019) {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1px8eLVDzVtnDz5C3ptZcaPt2AfBRw7lp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMawkJlqSha0iYiZw0mVgbCvTu3TA8N-6bY9OfVO7OMbcu9sO3" group-title="VOD CAMPURAN", Make Us Dream {Sub Indo}
+https://cdn.clonefile.icu/drive/index.php?id=xb4FNW%2BS8uMsFR%2FEw5m6pQnorwkgbqbtTOi9rrev3aM76oUqwhFcvp9I%2F4%2BE1%2BSVjW4ftJsFvHqkmfbLFUGKpIwXGgJVBb4jCoNKa0gBn%2FcktsC%2FumIWUYk2bvNYZFD%2FUAmgqsYe9ome4dDdmA7ytCmSQy3KQO1ESK0ySMJUREGE8PVBBM55bSjTFrI4bz2e4%3D&ref=https%3A%2F%2Fbos21.xyz%2Fmake-us-dream%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuKo8sdcwBoX_Xuii4Ii08msHal2rrHyJCLBAu1rD1zNoXw-1K" group-title="VOD CAMPURAN", The Lingering {Sub Indo}
+https://cdn.apidev.icu/drive/index.php?id=Kxf5iMUtnsbVvCimFXv5rQziovh8Xydo8p4Qjk%2FiK5NTjIw4HaSA8P78H1GO9rRB0aFlsnuqqvWhzDTyuBWT8RoDInzJWWca1OpO0vh5A7eiOb0xc2%2F0OPco2so5%2F%2BzEs4B4rTYjqIJA3T1KAWwOucM6ohZiCUfuofHnBF6KkohP6A6Hre9JffyhY4KyusKuQ%3D&ref=https%3A%2F%2Fbos21.xyz%2Fthe-lingering%2F&res=default
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhgvrzlhaSc1HxC1tGrbvULpLgKgg1ImOxhk7-7cxhynp1HBH0" group-title="VOD CAMPURAN", ICEMAN: The Time Traveler (sub indo)
+https://cdn.clonefile.icu/drive/index.php?id=aUXH1hDhAF7%2BrDKM6OQ29gduyPIDOUYsQ17KXZ%2FT1lzDlhQqMKXHlrFvKRKdqxkD4COIjmyURJJL7sk4d7qZUqz8wRAi7ZrrwV%2BVEQXYFdMcp7qE65g3qqBKiu4HecddjLhsusYgcOoHORDaTMNMu%2FNO5gzlLXauFqa3x%2BBq2U%2B%2FBg77Rin%2F%2Fv9KDrp37JiKoNINH%2BApwnPL5mOI3NJNmU&ref=https%3A%2F%2Fbos21.xyz%2Ficeman-the-time-traveler%2F&res=default
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYB6GAwQ67D3Lta6drwcI1jPNoJCRE2Yz5SeOVq3GHc_trFLjs" group-title="VOD CAMPURAN",The Hitman Agency (Sub Indo)
+https://cdn.apidev.icu/drive/index.php?id=WUmnaOAb7Cj0gO1QwaIYKQV2H8%2BlYVSlEHUGZ9JmkHj5DQTuhkJoaOPInmMfnBZsYS0PJC%2FkTNHMQP32Vno%2FP01VARKxiBQy9gSi%2F1Ighc19tvmSGtMha7%2FZ8C%2BWpZglPUpuoWkZ19V3NoNLbZKUPGTUkUwX5Zn2DpCR1w%2BBBDz%2FcjoliRRhMVnsM6tqaGGp8%3D&ref=https%3A%2F%2Fbos21.xyz%2Fthe-hitman-agency%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSX2qWPviqN85udzTJwisvM16HhcrMqDVvWO1Pjj33WiUxnzK1z" group-title="VOD CAMPURAN",Taylor Swift: Reputation Stadium Tour (Sub Indo)
+https://cdn.cloneapi.icu/drive/index.php?id=WmWA1icdpSCY8cW1Uw9jeQvl4E1kZvVDZUsNXwLSRIiUmsbcEU9hPYMcTFYhbiNF00OfXy5ZtYnXwlFlctE%2FKY0%2BcQCB6iG4nZdr1oroVZphV2WQbK3MlJIJu6FdkEzw079rlC%2BFNfPbfNz0uE%2FME73294%2FeqM9eBKU3%2BEIaEnx0ZTWSRypY%2BHaPeZq1HccP1M07egSMkqnxo%2BPgEg6ZipEDE0kKIcy3V8IzAOQQYBhg%3D%3D&ref=https%3A%2F%2Fbos21.xyz%2Ftaylor-swift-reputation-stadium-tour%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRsb8T0MLwNqLk-fAfOXtJ5uAwrkXmSj600oQiD8hBsi4zeASQA" group-title="VOD CAMPURAN",WORTH (Sub Indo)
+https://cdn.cloneapi.icu/drive/index.php?id=%2Bob5BSO4wTkCt6sMSvok2g9U9iZC2Y%2FdHSi1bmTxhfjS%2FG5Dkude5iU9CDQexlSblJVbClQ9%2FS%2Bol3RcTh9JMuUJs1xCqfheX856gJUZyKzxKMOQ5aUf2MqxNni2MKvW4r1YJN8hdXVshYC2J32fLakoR5%2FCOAmhZZ%2FSCfeoC6BGOYJK0J2rWjbh9bB8RTkFI%3D&ref=https%3A%2F%2Fbos21.xyz%2Fworth%2F&res=default
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwaxWjOWMS01sBwD7_cPnwSfB3AEBzA7CTxTBKD2Ik_33BkLw3" group-title="VOD CAMPURAN",JESSIE (2019) 
+https://cdn.clonefile.icu/drive/index.php?id=ktgAy6pfyu9L6K4HtVHlfQUCgFSImD4IrxQ2doj95vqhwWSf840t97da0prNHTqJEXKezA1J4Npb2TZtB9NC72E3%2F1fv6IM%2Fr6PEMUMOV696fvvMfj5EigIs6Xai9BxHxCI3lAz%2FOiqLlL1CcZQW9cIKxoHl4bJw%2FO64B8bhVeul9Q1NgyZ1ULfsWkenWS3CE%3D&ref=https%3A%2F%2Fbos21.bid%2Fjessie%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqpoEgb1eEO0qjkrMAq2CLo9TZbhp4p0UkdP6fmWTEG0Knen7J" group-title="VOD CAMPURAN",UNDA (2019) 
+https://cdn.apidev.icu/drive/index.php?id=905A7%2Fe2YENvh7FT7jbsGQpNJEYkhfKkyGK93lY0aPyIS048vx6ME27YNXMA54Fk8FI9r1KEZTBPUA%2FjUKfFBEr9yeaDWUe7c%2BpdSChm268wzXCJyk0JDz6V0av9228icvWUYJURWRUvAtq5BsmyuoO7jUZdvfUMAXkU%2BR0%2FGDfBAq%2B6tWC9ldqiOYePfgkHw%3D&ref=https%3A%2F%2Fbos21.bid%2Funda%2F&res=default
+#EXTINF:-1 logo="http://themoviebear.com/images/201908/thumb_img/1243_thumb_G_1565389851882.jpg" group-title="VOD CAMPURAN",A Score To Settle (2019) 
+https://cdn.clonefile.icu/drive/index.php?id=qhD9HZlA9Xbf%2FMflmswYmQGJKCyBt1a9M1sqiXvs3cv0I1O7ZOM8bxPxzzzGQJnRIUvG99coirCpCyZPAxXzt2RCR637O0xOZ%2FvvC5nDt7evBnFmDRPZ5RYD5QhetzLxCbCj%2FpPMhNC0%2F2ioEssEg6gkEon8uy%2Fbev1pIPPG7c1tHEx45xRgtR51851ObHgXL65%2F33CxKnUtaUgFUyzmc9&ref=https%3A%2F%2Fbos21.bid%2Fa-score-to-settle%2F&res=default
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Bharat_film_poster.jpg/220px-Bharat_film_poster.jpg" group-title="VOD CAMPURAN",Bharat (2019) 
+https://cdn.cloneapi.icu/drive/index.php?id=4spaMcjKAHB10bV3BeQEiAtaobmRKskePYjKvCI9xz%2FHbPsPxbHpHKQVM%2FxCtF%2B6oeCLAlogc%2BODheSnZcfz1WQUQyf9g35aM3iN1kkPSTyoxw1Z%2BP6DdNcOaIx3cJjdnstpPkswwLPanV2BTzMrCsn%2BpliORGvASTmjLxfonKvc%2BjznGjWLibvvnn8o5DBKg%3D&ref=https%3A%2F%2Fbos21.bid%2Fbharat%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9kBsQv_9R6onI_SyYnp-fr53Dks62Mzo73xaDjKs3qalxkhDh" group-title="VOD CAMPURAN",Seven (2019) 
+https://cdn.clonefile.icu/drive/index.php?id=ytHdUFZ%2Bxo7B4mnlY01uXQYPHvRR40cw%2F5k%2BeAmesW%2F0pJRf8Wwj4iJaJV5HD59%2B6ZhiplFjfIXaOMsJOcCMYOkvx08mbhovd6nnClOwoo1LT4aMFqrEptCCAqMqtwz8x%2BKwQKVcriH90QTJvP0UI2xv%2FcoLEsg9tICI8TAog1kDMPzJnW9Jy45dzbsOVfH90%3D&ref=https%3A%2F%2Fbos21.bid%2Fseven%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPmZq42FYNtxAB6usVEzjipmvij0YeeQw85EzPCXe4IBVsQKlb" group-title="VOD CAMPURAN",Time To Retaliate: MASOOM (2019) 
+https://cdn.clonefile.icu/drive/index.php?id=seG3hwGglcG7sN2zokhXrwmMEWhFYi0ZkP8Ym7PBzRy1OP3eEFWa97F71sTCOG97mksNf5gLDhxReQJGSzAhRYSQZ5lAQ8ILylxS8tZXt5Acjurq7%2Fq%2B5QXViFx9DgvJkAWrT1DvkntzmdIMJx8tQjrg67uEbz%2F%2BHza7B1Z1h1nP8UDCmQByuHsjQBPiKt19%2BVQ%2FXopf5gGrC5zV6sNg8P&ref=https%3A%2F%2Fbos21.bid%2Ftime-to-retaliate-masoom-2%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5db1tmORO2rZrlbcg_EXqHRioNcBIRnzwNumyfjBghlGfvtU-" group-title="VOD CAMPURAN",The Great Hack (2019) 
+https://cdn.apidev.icu/drive/index.php?id=sQixUUB2mGsTPjnBLc%2F3HA8YmSIr%2BjA3aISMrbQXzlCQaydOaOIL09FfpBLm3DrJHEeArEwL4T8QT8Mtu0rxcLyVdFAca6zoZlA7ULXEiLEK%2FTCJ0CGFHrl1%2Bt%2FBdHnLN3Y8dQKFqvpvpjinpQGp52wRjjteciDp1x71%2FK3SXo4StjDeYSAf56pyZiW3E1g%2FI%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-great-hack%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzZHlomrQ8gpEE8BIOFNl86qpd8i_GAOy3CfKOnvw1q7rxNv6w" group-title="VOD CAMPURAN",El Chicano (2019) 
+https://cdn.clonefile.icu/drive/index.php?id=gAs52XEWaSy8ENes17sFUwx0yXZvfGwt949EIJ%2BFbITHnR1TYBRKXUqbMetRC576NHH6H5xlrpWUpbiSP6WhDvRo4fs9ZBGUyILIXqXBkBnW96kOCw1w%2F0CVBlvX5HRgVsB7XbtyCAFR%2BCDRIPggzUHuuh5T9IjtkTmDJKnzLX8wAimpyE2zBcw9B2ZkBKzyM%3D&ref=https%3A%2F%2Fbos21.bid%2Fel-chicano%2F&res=default
+#EXTINF:-1 logo="https://cdn.cinematerial.com/p/500x/nksojhup/batman-hush-movie-cover.jpg?v=1563687047" group-title="VOD CAMPURAN",Batman: Hush (2019) 
+https://cdn.cloneapi.icu/drive/index.php?id=N%2Bi2ByjvYLyRKAoyr9HMhwvQ%2F5Y%2BnL10Lb3H9wi0joj1s67Pnz0SOAhY1Aiyg74UOJzL3RLKtu7Ajg6jScNWhmVYbhr%2F69NyJEGl9Q4c7rrezbRnh%2BMqQcZM%2FL3xu6lmKt2Rm3zTkwPyXXgwxIUlpKm35FhJphWJ7ZvZq%2FzPdLmBjTDVK%2Bp3xPigr%2BiQGYNoE%3D&ref=https%3A%2F%2Fbos21.bid%2Fbatman-hush%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSfXklD3GkdA5gxiw7PhxN_IR8KKjEEAjf34EJUN2_RKbo1_B5" group-title="VOD CAMPURAN",Pokemon Detective Pikachu (2019) 
+https://cdn.apidev.icu/drive/index.php?id=x%2Bqtp8%2BFn8Km2SZIX1WOJgqsvCig4I4r%2BRO9Py78lYoKWTcTi%2FtAB5bDu3amluh0MGMxpb8D3qygyc%2F5gcbX%2BEu5xIrW0A6K4qfYogC%2BWbTZDIlQg2xmWD5xKfAdUfGpSgjBguYJ4j4LJACgytFukRafqiP46JjJHNN%2FM%2FOe7vxJr8SIQBKxxXMnuaekZfZtl1Y%2F%2B3BwuhXdNXZyjXD9y3WZbqZCzEiOo6VylEB%2FI5Pg%3D%3D&ref=https%3A%2F%2Fbos21.bid%2Fpokemon-detective-pikachu-bluray%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcWwRMaUJ34ihcSyvZrob59Q3-DkTScAXgUNsDwh7k2BLm_nWm" group-title="VOD CAMPURAN",The Immortal War : Resurgence (2019) 
+https://cdn.apidev.icu/drive/index.php?id=SDL8%2FFxgey%2B87NVzHzUWMQbvzI357hQoCk1pfSKmXIEfegy5I2wThsIUAsTXLXFHIqt0Fgod8lGQex5pwLsGHWcpEej3h6oobriYE6d%2BUJ3ZIZz4%2B6jZivEb5DLpNwBd7MFpnzQJ%2FsTU2S9CJ9iF1GkD6xkgKrhUGOsi%2FfgghaEDCWXJy9ybpGNvUjHe82bUyizuO5b36X75vGRih8YwJH&ref=https%3A%2F%2Fbos21.bid%2Fthe-immortal-wars-resurgence%2F&res=default
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHJtlWeFgExSsSwDaGlnPoTIgWfw9AtNOoU7tNLvFR1UGj-T1G" group-title="VOD CAMPURAN",Hollow Point (2019) 
+https://cdn.clonefile.icu/drive/index.php?id=zHUPbjg%2BUb3gMFD944L0ZAkI5mriF5eA43q%2FQlk9xNTgiotwQvBHMypOOavp%2BR4p8tGlsyzgLFUf47zZFZjSfj543N%2FJE5n702jMW2lwWxzispkUyluyX6aE9FG%2BWtviQIyNOtE0hV4LYuTZwRa75jCwkEgoCCylkB11XGmrVAeRhbL5KhaDp0xcmimE16I40%3D&ref=https%3A%2F%2Fbos21.bid%2Fhollow-point%2F&res=default
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHlHI2WveSbzVe2G8nrghBV7YQsD3pdJ53a9xBMgjv0p_6l0pr" group-title="VOD WARKOP DKI", Jangkrik Bos part 1 (2016)
+https://www.googleapis.com/drive/v3/files/1uQ99mpi3qkG89PMhCt5nrA84QpAtfFQT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfaO3KS0ro4vRyOTDsQ-MFBXqzU76YtRhA8J_uGHgkGsxpRgbI" group-title="VOD WARKOP DKI", Jangkrik Bos part 2 (2017)
+https://www.googleapis.com/drive/v3/files/1uoDg3OKbx1OaJ-MFh0er4ATK7ienUwFg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD3EZoPOXK3yPgRk0_KLbV-REyDA0z5fmocPEO4amEzeqi9hvK" group-title="VOD WARKOP DKI",TAU DIRI DONG (1983)
+https://www.googleapis.com/drive/v3/files/1uVvQPLh-m7aEGs2zsBph-sUnuQqlBP5G?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD3EZoPOXK3yPgRk0_KLbV-REyDA0z5fmocPEO4amEzeqi9hvK" group-title="VOD WARKOP DKI",SETAN KREDIT (1981)
+https://www.googleapis.com/drive/v3/files/1uVSZ0GVw2gILbNj5F7R91QRSBGoy5zwb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD3EZoPOXK3yPgRk0_KLbV-REyDA0z5fmocPEO4amEzeqi9hvK" group-title="VOD WARKOP DKI",GENGSI DONG (1980)
+https://www.googleapis.com/drive/v3/files/1ueaPi5_5JscNWaWGbk74JvyRaZnmikdK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD3EZoPOXK3yPgRk0_KLbV-REyDA0z5fmocPEO4amEzeqi9hvK" group-title="VOD WARKOP DKI",Pokoknya Beres (1983)
+https://www.googleapis.com/drive/v3/files/1uUt-UPIDtOrVN5biQ3upsmYwhQXt1it9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD3EZoPOXK3yPgRk0_KLbV-REyDA0z5fmocPEO4amEzeqi9hvK" group-title="VOD WARKOP DKI",CHIPS (1984)
+https://www.googleapis.com/drive/v3/files/1uhIpLvS0OVHtprpOqiGsbJcdWm14W5Fs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD3EZoPOXK3yPgRk0_KLbV-REyDA0z5fmocPEO4amEzeqi9hvK" group-title="VOD WARKOP DKI",Kesempatan Dalam Kesempitan (1986)
+https://www.googleapis.com/drive/v3/files/1vABcry88ERGqh4kVpdiwfU8emhPsCc3A?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD3EZoPOXK3yPgRk0_KLbV-REyDA0z5fmocPEO4amEzeqi9hvK" group-title="VOD WARKOP DKI",GANTIAN DONG (1985)
+https://www.googleapis.com/drive/v3/files/1vBri1QseCyTrskDfGHbfr6P1B3gZPRnP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD3EZoPOXK3yPgRk0_KLbV-REyDA0z5fmocPEO4amEzeqi9hvK" group-title="VOD WARKOP DKI", PINTAR PINTAR BODOH (1980)
+https://www.googleapis.com/drive/v3/files/1uDKX-j1e18iQas-7pnCZBhY2nsPjlMlW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD3EZoPOXK3yPgRk0_KLbV-REyDA0z5fmocPEO4amEzeqi9hvK" group-title="VOD WARKOP DKI",MAJU KENA MUNDUR KENA (1983)
+https://www.googleapis.com/drive/v3/files/1uXQeyNyxZc4ynK7ZcGXd2zuEQYB-s0wT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD3EZoPOXK3yPgRk0_KLbV-REyDA0z5fmocPEO4amEzeqi9hvK" group-title="VOD WARKOP DKI",ITU BISA DIATUR (1984)
+https://www.googleapis.com/drive/v3/files/1uEXVC1YB0dZjqypyS_tiIZMCqK1RlzLU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD3EZoPOXK3yPgRk0_KLbV-REyDA0z5fmocPEO4amEzeqi9hvK" group-title="VOD WARKOP DKI",JODOH BOLEH DIATUR (1986)
+https://www.googleapis.com/drive/v3/files/1xM84WVBBcG7Ynxezwe3pIkjZHLHtmclF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD3EZoPOXK3yPgRk0_KLbV-REyDA0z5fmocPEO4amEzeqi9hvK" group-title="VOD WARKOP DKI",SAMA JUGA BOHONG (1986)
+https://www.googleapis.com/drive/v3/files/1usZ0RePb207t0D5jY4kuz5JmacUaANOF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD3EZoPOXK3yPgRk0_KLbV-REyDA0z5fmocPEO4amEzeqi9hvK" group-title="VOD WARKOP DKI",DONGKRAK ANTIK (1982)
+https://www.googleapis.com/drive/v3/files/1uzLePuk0QLCc_Y-KPQK-MAMWPoid3mKc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD3EZoPOXK3yPgRk0_KLbV-REyDA0z5fmocPEO4amEzeqi9hvK" group-title="VOD WARKOP DKI",MANA TAHAAAN (1979)
+https://www.googleapis.com/drive/v3/files/1usboF5N0WNFFGGOgCCv77wMap50BCjIw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
 

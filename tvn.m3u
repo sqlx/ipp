@@ -654,36 +654,8 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/92a8954a-1873-4f61-85e6
 #EXTINF:-1 group-title="VOD MOVIES",YOU NOW SEE ME 2
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.bioskoptoday.com/wp-content/uploads/2016/07/logo-ecinema-1.jpg" group-title="VOD MOVIES",  Jumanji: Welcome to the Jungle (2017)
-https://www.googleapis.com/drive/v3/files/1ycWd64JYv_P93jprbTZAJj4twRWJ9WiO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="VOD MOVIES", Tomb Raider (2018)
-https://www.googleapis.com/drive/v3/files/1Blv4t2kZFYP2R1qNnL-I7ISEbcGlvo0U?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="VOD MOVIES", IceMan "The Time Traveler (2018)
-https://str14.vidoza.net/x4lfqgy7rjzpvjumxbpeuvsd6nbdmomn2juy4emww7cxh7gfv4jaximyabya/v.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg" group-title="VOD MOVIES", The Meg (2018)
-https://www.googleapis.com/drive/v3/files/1BoVh8QUyWJRdqKynEQBHZKDb9Rbc-xSe?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg" group-title="VOD MOVIES", Insidious: The Last Key (2018)
-https://www.googleapis.com/drive/v3/files/1px8eLVDzVtnDz5C3ptZcaPt2AfBRw7lp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg" group-title="VOD MOVIES", Jumanji: Welcome to the Jungle (2017)
-https://www.googleapis.com/drive/v3/files/1ycWd64JYv_P93jprbTZAJj4twRWJ9WiO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg" group-title="VOD MOVIES", Tomb Raider (2018)
-https://www.googleapis.com/drive/v3/files/1Blv4t2kZFYP2R1qNnL-I7ISEbcGlvo0U?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://sogafime.com/wp-content/uploads/2018/08/xxeQmKUso0Ff8O1Rz6FrGxqEAD7-152x228.jpg" group-title="VOD MOVIES", Galih & Ratna (2017)
-https://www.googleapis.com/drive/v3/files/1ZrcEm6DJKrQaba9WoRCxZP1aotVGbgEV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="VOD MOVIES",  KINGSMAN the golden circle
-https://www.googleapis.com/drive/v3/files/13YSPMp_KEUa7iecQ0FmxVOlKC9LoB-z4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="VOD MOVIES",  ROBIN HOOD
-http://dl8.heyserver.in/film/2019-2/Robin.Hood.2018.720p.WEB-DL.MkvCage.mkv
-
+#EXTINF:-1 group-title="VOD MOVIES",ANGRY BIRDS 2
+https://drive.google.com/file/d/0B8_IypdzIhBJR3FCMWNQRWpoUG8/view
 
 
 

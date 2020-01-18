@@ -198,142 +198,142 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="LOKAL",TVRI 3 Budaya (Opt-2)
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,RCTI
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI/sa_hls/RCTI.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,MNC
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",MNC
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,ANTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",ANTV
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,SCTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,INDOSIAR
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",INDOSIAR
 https://liveanevia.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,NET TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,GLOBAL TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",GLOBAL TV
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" group-title="NO LAG,GTV 2
+#EXTINF:-1 tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" group-title="TV FAST",GTV 2
 https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_hls/GlobalTV.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,TRANS 7
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",TRANS 7
 http://id2.indostreamingtv.com/live/trans7/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,TRANS 7 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",TRANS 7 2
 https://liveanevia.mncnow.id/live/eds/Trans7/sa_hls/Trans7.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,TV ONE
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",TV ONE
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_hls/TVOne.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,TV ONE 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",TV ONE 2
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,TRANS TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",TRANS TV
 http://id2.indostreamingtv.com/live/tv33/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,TRANS TV 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",TRANS TV 2
 https://liveanevia.mncnow.id/live/eds/TransTV/sa_hls/TransTV.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,INEWS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",INEWS
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,BeritaSatu
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",BeritaSatu
 https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_hls/BeritaSatu.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,MetroTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",MetroTV
 https://liveanevia.mncnow.id/live/eds/MetroTV/sa_hls/MetroTV.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,JakTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",JakTV
 https://liveanevia.mncnow.id/live/eds/JakTV/sa_hls/JakTV.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,RTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",RTV
 https://liveanevia.mncnow.id/live/eds/RTV/sa_hls/RTV.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,TVRI
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",TVRI
 https://liveanevia.mncnow.id/live/eds/TVRI/sa_hls/TVRI.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,MNCNews
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",MNCNews
 https://liveanevia.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,IDX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,BeSmart
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",BeSmart
 https://liveanevia.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,FX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,WakuWakuJapan
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",WakuWakuJapan
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,BBCWorldNews
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",BBCWorldNews
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_hls/BBCWorldNews.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,ChannelNewsAsia
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",ChannelNewsAsia
 https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_hls/ChannelNewsAsia.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,CNBC
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",CNBC
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,NHKWorldPremium
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",NHKWorldPremium
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,Arirang
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",Arirang
 https://liveanevia.mncnow.id/live/eds/Arirang/sa_hls/Arirang.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,CNNInternational
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",CNNInternational
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_hls/CNNInternational.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,France24
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",France24
 https://liveanevia.mncnow.id/live/eds/France24/sa_hls/France24.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,CartoonNetwork
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",CartoonNetwork
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,History
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",History
 https://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,Discovery
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",Discovery
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,FightSports
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",FightSports
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,TLC
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,HGTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,AFC
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",AFC
 https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,WarnerTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",WarnerTV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,NatGeoWild
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",NatGeoWild
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,NatGeoPeople
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",NatGeoPeople
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,NatGeoChannel
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",NatGeoChannel
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,AnimalPlanet
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",AnimalPlanet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,CrimeInvestigation
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",CrimeInvestigation
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NO LAG,FMN
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",FMN
 https://liveanevia.mncnow.id/live/eds/FMN/sa_hls/FMN.m3u8
 
 

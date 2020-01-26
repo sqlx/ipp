@@ -556,24 +556,6 @@ http://bit.ly/2DvIkGl
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",National Geographic HD (LUAR)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
 
-#EXTINF:0 group-title="Hollywood",Hollywood OK 1
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
-#EXTINF:0 group-title="Hollywood",Hollywood OK 2
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:0 group-title="Hollywood",Hollywood OK 3
-http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
-#EXTINF:0 group-title="Hollywood",Hollywood OK 4
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:0 group-title="Hollywood",Hollywood OK 5
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:0 group-title="Hollywood",Hollywood OK 6
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
-#EXTINF:0 group-title="Hollywood",Hollywood OK 7
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1.m3u8
-#EXTINF:0 group-title="Hollywood",Hollywood OK 8
-http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
-#EXTINF:0 group-title="Hollywood",Hollywood OK 9
-http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_jJjeLEPH8hZXu8afvFAIJSaXf4_Lohde3NW_damjK57EOz98" group-title="Hollywood Movies",HOLLYWOOD MOVIES 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
@@ -2879,6 +2861,19 @@ http://122.38.74.172:9981/stream/channelid/966306501
 http://122.38.74.172:9981/stream/channelid/339312133
 #EXTINF:-1 group-title="Adult TV Live",KOREAN PINK TV HD
 http://122.38.74.172:9981/stream/channelid/1086640851
+
+
+
+
+#EXTINF:-1 group-title="ATV",허니TV
+http://112.148.183.161:9981/stream/channelid/611208216
+ 
+#EXTINF:-1 group-title="ATV",VIKI
+http://112.148.183.161:9981/stream/channelid/488704961
+ 
+#EXTINF:-1 group-title="ATV",미드나잇
+http://112.148.183.161:9981/stream/channelid/96001658
+
 
 
 

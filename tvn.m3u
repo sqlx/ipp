@@ -396,9 +396,6 @@ https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",FoxCrime
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",Arirang
-https://liveanevia.mncnow.id/live/eds/Arirang/sa_hls/Arirang.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",ChannelV
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
 

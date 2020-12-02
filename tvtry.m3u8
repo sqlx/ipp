@@ -1,5 +1,58 @@
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/7jD9Q4N/Bein-1.png" group-title="BOLANG'TV",cek
-http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd
+#EXTINF:-1group-title="JP", J 1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/53600
+#EXTINF:-1group-title="JP", J 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/53601
+#EXTINF:-1group-title="JP", J 3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/53599
+#EXTINF:-1group-title="JP", J Sports 1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/53589
+#EXTINF:-1group-title="JP", J Sports 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/53590
+#EXTINF:-1group-title="JP", J Sports 3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/53591
+#EXTINF:-1group-title="JP", J Sports 4
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/53593
+#EXTINF:-1group-title="JP", J Racing
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/53586
+#EXTINF:-1group-title="JP", J Fight
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/53588
+#EXTINF:-1group-title="JP", J Golf
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/53587
+#EXTINF:-1group-title="JP", J Kids
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/53592
+#EXTINF:-1group-title="JP", J Kids 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/53595
+#EXTINF:-1group-title="JP", J Kids 3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/53596
+#EXTINF:-1group-title="JP", J Music
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/53597
+#EXTINF:-1group-title="JP", J Movie
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/53594
+#EXTINF:-1group-title="JP", Eisei Gekijo
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/53598
+#EXTINF:-1group-title="JP", Gaora Sports
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/53585
+#EXTINF:-1group-title="JP", BS-TBS HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/3405
+#EXTINF:-1group-title="JP", JAY SPORTS
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7447
+#EXTINF:-1group-title="JP", JAY SPORTS 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7446
+#EXTINF:-1group-title="JP", JAY SPORTS 3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7445
+#EXTINF:-1group-title="JP", JAY SPORTS 4
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/13861
+#EXTINF:-1group-title="JP", TBS 1HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/3406
+#EXTINF:-1group-title="JP", TBS HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7453
+#EXTINF:-1group-title="JP", WOWOW PRIME
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7452
+#EXTINF:-1group-title="JP", WOWOW LIVE
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7444
+#EXTINF:-1group-title="JP", Star Channel 1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/13859
+#EXTINF:-1group-title="JP", Star Channel 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/13858
+#EXTINF:-1group-title="JP", Star Channel 3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/13857

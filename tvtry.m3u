@@ -1,8 +1,0 @@
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",SIG
-https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",HIT
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",Fami
-https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_dash_vmx/HBOFamily.mpd
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV FAST",HB
-https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd
